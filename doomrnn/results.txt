@@ -1,0 +1,112 @@
+hadavid@hadavid-macbookpro:~/devel/worldmodelsexperiments/doomrnn$ python model.py doomreal norender log/doomrnn.c.16.64.best.json 0
+filename log/doomrnn.cma.16.64.best.json
+seed 0
+model size 1088
+making real doom environment
+2018-06-01 11:20:52.138774: I tensorflow/core/platform/cpu_feature_guard.cc:140] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 FMA
+model using cpu
+input dropout mode = False
+output dropout mode = False
+recurrent dropout mode = False
+loading file log/doomrnn.cma.16.64.best.json
+iteration 0 reward 713.0
+iteration 1 reward 803.0
+iteration 2 reward 362.0
+iteration 3 reward 1193.0
+iteration 4 reward 1521.0
+iteration 5 reward 1059.0
+iteration 6 reward 1541.0
+iteration 7 reward 2100.0
+iteration 8 reward 488.0
+iteration 9 reward 1769.0
+iteration 10 reward 1190.0
+iteration 11 reward 901.0
+iteration 12 reward 141.0
+iteration 13 reward 2100.0
+iteration 14 reward 679.0
+iteration 15 reward 808.0
+iteration 16 reward 2100.0
+iteration 17 reward 1864.0
+iteration 18 reward 1884.0
+iteration 19 reward 549.0
+iteration 20 reward 310.0
+iteration 21 reward 146.0
+iteration 22 reward 801.0
+iteration 23 reward 366.0
+iteration 24 reward 1284.0
+iteration 25 reward 940.0
+iteration 26 reward 2100.0
+iteration 27 reward 1051.0
+iteration 28 reward 798.0
+iteration 29 reward 1106.0
+iteration 30 reward 731.0
+iteration 31 reward 480.0
+iteration 32 reward 1676.0
+iteration 33 reward 293.0
+iteration 34 reward 964.0
+iteration 35 reward 559.0
+iteration 36 reward 1095.0
+iteration 37 reward 569.0
+iteration 38 reward 394.0
+iteration 39 reward 1125.0
+iteration 40 reward 597.0
+iteration 41 reward 974.0
+iteration 42 reward 1001.0
+iteration 43 reward 661.0
+iteration 44 reward 586.0
+iteration 45 reward 797.0
+iteration 46 reward 1299.0
+iteration 47 reward 536.0
+iteration 48 reward 701.0
+iteration 49 reward 1026.0
+iteration 50 reward 748.0
+iteration 51 reward 2100.0
+iteration 52 reward 2100.0
+iteration 53 reward 933.0
+iteration 54 reward 815.0
+iteration 55 reward 494.0
+iteration 56 reward 467.0
+iteration 57 reward 1132.0
+iteration 58 reward 2100.0
+iteration 59 reward 1200.0
+iteration 60 reward 1821.0
+iteration 61 reward 1161.0
+iteration 62 reward 2060.0
+iteration 63 reward 603.0
+iteration 64 reward 1608.0
+iteration 65 reward 529.0
+iteration 66 reward 1531.0
+iteration 67 reward 488.0
+iteration 68 reward 647.0
+iteration 69 reward 736.0
+iteration 70 reward 1169.0
+iteration 71 reward 717.0
+iteration 72 reward 212.0
+iteration 73 reward 930.0
+iteration 74 reward 1818.0
+iteration 75 reward 834.0
+iteration 76 reward 430.0
+iteration 77 reward 254.0
+iteration 78 reward 836.0
+iteration 79 reward 909.0
+iteration 80 reward 149.0
+iteration 81 reward 275.0
+iteration 82 reward 620.0
+iteration 83 reward 1643.0
+iteration 84 reward 468.0
+iteration 85 reward 1169.0
+iteration 86 reward 701.0
+iteration 87 reward 576.0
+iteration 88 reward 829.0
+iteration 89 reward 1195.0
+iteration 90 reward 1118.0
+iteration 91 reward 834.0
+iteration 92 reward 424.0
+iteration 93 reward 1696.0
+iteration 94 reward 607.0
+iteration 95 reward 388.0
+iteration 96 reward 704.0
+iteration 97 reward 1773.0
+iteration 98 reward 1509.0
+iteration 99 reward 548.0
+seed 0 average_reward 973.39 stdev 539.764706053
