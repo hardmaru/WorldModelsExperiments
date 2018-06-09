@@ -21,7 +21,7 @@ If you find this project useful in an academic setting, please cite:
 
 # Issues
 
-For general discussion about the World Model article, there are already some good discussion threads here in the GitHub [issues](https://github.com/worldmodels/worldmodels.github.io/issues) page of the interactive article. Feel free to raise issues about the specific implementation the issues page of this repo.
+For general discussion about the World Model article, there are already some good discussion threads here in the GitHub [issues](https://github.com/worldmodels/worldmodels.github.io/issues) page of the interactive article. Please raise issues about this specific implementation in the [issues](https://github.com/hardmaru/WorldModelsExperiments/issues) page of this repo.
 
 # Licence
 
