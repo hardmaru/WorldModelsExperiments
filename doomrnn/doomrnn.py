@@ -700,6 +700,7 @@ if __name__=="__main__":
       if steps % repeat == 0:
         action = np.random.rand() * 2.0 - 1.0
         repeat = np.random.randint(1, 11)
+      action = 0.0
       if overwrite:
         action = a[0]
       obs, reward, done, info = env.step(action)

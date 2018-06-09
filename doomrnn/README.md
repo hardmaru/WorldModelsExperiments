@@ -2,6 +2,21 @@
 
 Step by step instructions of reproducing VizDoom TakeCover experiment.
 
+# Citation
+
+If you find this project useful in an academic setting, please cite:
+
+```
+@article{Ha2018WorldModels,
+  author = {Ha, D. and Schmidhuber, J.},
+  title  = {World Models},
+  eprint = {arXiv:1803.10122},
+  doi    = {10.5281/zenodo.1207631},
+  url    = {https://worldmodels.github.io},
+  year   = {2018}
+}
+```
+
 # Notes
 
 -TensorFlow 1.8.0
@@ -64,7 +79,7 @@ A new dataset will be created in `series`. After this is recorded, train the MDN
 
 This will produce a model in `tf_rnn/rnn.json` and also `initial_z.json`.
 
-You must now copy copy vae.json, initial_z.json and rnn.json over to `tf_models` directory and overright previous files if they were there.
+You must now copy copy vae.json, initial_z.json and rnn.json over to `tf_models` directory and overwrite previous files if they were there.
 
 Now on a 64-core CPU machine, run the CMA-ES based training:
 
@@ -73,3 +88,7 @@ Now on a 64-core CPU machine, run the CMA-ES based training:
 You can monitor progress using the `plot_training_progress.ipynb` notebook which loads the `log` files being generated. After 200 generations (or around 4-5 hours), it should be enough, and you can test the model by running:
 
 `python model.py doomreal norender log/doomrnn.cma.16.64.best.json`
+
+# Licence
+
+MIT
