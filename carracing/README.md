@@ -74,7 +74,7 @@ Now on a 64-core CPU machine, run the CMA-ES based training:
 
 `python train.py`
 
-You can monitor progress using the `plot_training_progress.ipynb` notebook which loads the `log` files being generated. After 200 generations (or around 4 days), it should be enough to get around a score of 890. To get 900+ it might take weeks (who said it was easy? :). You can test the model by running:
+You can monitor progress using the `plot_training_progress.ipynb` notebook which loads the `log` files being generated. You can test the model by running:
 
 `python model.py norender log/carracing.cma.16.64.best.json`
 
