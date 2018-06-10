@@ -1,6 +1,8 @@
 # World Models Experiments
 
-Step by step instructions of reproducing World Models.
+Step by step instructions of reproducing [World Models](https://worldmodels.github.io/).
+
+![World Models](/assets/world_models_card_both.png)
 
 Please see [blog post](http://blog.otoro.net//2018/06/09/world-models-experiments/) for step-by-step instructions.
 
