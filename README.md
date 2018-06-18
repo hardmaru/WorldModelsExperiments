@@ -6,6 +6,10 @@ Step by step instructions of reproducing [World Models](https://worldmodels.gith
 
 Please see [blog post](http://blog.otoro.net//2018/06/09/world-models-experiments/) for step-by-step instructions.
 
+# Note regarding OpenAI Gym Version
+
+Please note the library versions in the blog post. In particular, the experiments work on gym 0.9.x and does NOT work on gym 0.10.x. You can install the older version of gym using the command `pip install gym==0.9.4`, `pip install numpy==1.13.3` etc.
+
 # Citation
 
 If you find this project useful in an academic setting, please cite:
