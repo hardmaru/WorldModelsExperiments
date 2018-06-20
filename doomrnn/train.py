@@ -24,6 +24,8 @@ from es import CMAES, SimpleGA, OpenES, PEPG
 import argparse
 import time
 
+os.environ["CUDA_VISIBLE_DEVICES"]="-1" # disable GPU
+
 ### ES related code
 num_episode = 1
 eval_steps = 25 # evaluate every N_eval steps
