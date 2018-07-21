@@ -1,0 +1,1562 @@
+assigning the rank and nworkers 65 30
+size of model 1088
+assigning the rank and nworkers 65 44
+size of model 1088
+assigning the rank and nworkers 65 3
+size of model 1088
+assigning the rank and nworkers 65 60
+size of model 1088
+assigning the rank and nworkers 65 40
+size of model 1088
+assigning the rank and nworkers 65 46
+size of model 1088
+assigning the rank and nworkers 65 4
+size of model 1088
+assigning the rank and nworkers 65 28
+size of model 1088
+assigning the rank and nworkers 65 2
+size of model 1088
+assigning the rank and nworkers 65 61
+size of model 1088
+assigning the rank and nworkers 65 42
+size of model 1088
+assigning the rank and nworkers 65 64
+size of model 1088
+assigning the rank and nworkers 65 49
+size of model 1088
+assigning the rank and nworkers 65 10
+size of model 1088
+assigning the rank and nworkers 65 26
+size of model 1088
+assigning the rank and nworkers 65 27
+size of model 1088
+assigning the rank and nworkers 65 25
+size of model 1088
+assigning the rank and nworkers 65 0
+size of model 1088
+assigning the rank and nworkers 65 36
+size of model 1088
+assigning the rank and nworkers 65 50
+size of model 1088
+assigning the rank and nworkers 65 16
+size of model 1088
+assigning the rank and nworkers 65 13
+size of model 1088
+assigning the rank and nworkers 65 41
+size of model 1088
+assigning the rank and nworkers 65 6
+size of model 1088
+assigning the rank and nworkers 65 19
+size of model 1088
+assigning the rank and nworkers 65 35
+size of model 1088
+assigning the rank and nworkers 65 63
+size of model 1088
+assigning the rank and nworkers 65 5
+size of model 1088
+assigning the rank and nworkers 65 62
+assigning the rank and nworkers 65 23
+size of model 1088
+size of model 1088
+assigning the rank and nworkers 65 59
+assigning the rank and nworkers 65 48
+size of model 1088
+size of model 1088
+assigning the rank and nworkers 65 15
+size of model 1088
+assigning the rank and nworkers 65 12
+size of model 1088
+assigning the rank and nworkers 65 18
+size of model 1088
+assigning the rank and nworkers 65 17
+size of model 1088
+assigning the rank and nworkers 65 9
+size of model 1088
+assigning the rank and nworkers 65 32
+size of model 1088
+assigning the rank and nworkers 65 24
+assigning the rank and nworkers 65 38
+size of model 1088
+size of model 1088
+assigning the rank and nworkers 65 7
+size of model 1088
+assigning the rank and nworkers 65 1
+size of model 1088
+assigning the rank and nworkers 65 21
+size of model 1088
+assigning the rank and nworkers 65 37
+size of model 1088
+(32_w,64)-aCMA-ES (mu_w=17.6,w_1=11%) in dimension 1088 (seed=237108, Fri Jul 20 02:07:29 2018)
+(32_w,64)-aCMA-ES (mu_w=17.6,w_1=11%) in dimension 1088 (seed=214791, Fri Jul 20 02:07:29 2018)
+('process', 3, 'out of total ', 65, 'started')
+making rnn doom environment
+('process', 13, 'out of total ', 65, 'started')
+making rnn doom environment
+(32_w,64)-aCMA-ES (mu_w=17.6,w_1=11%) in dimension 1088 (seed=212500, Fri Jul 20 02:07:29 2018)
+(32_w,64)-aCMA-ES (mu_w=17.6,w_1=11%) in dimension 1088 (seed=230944, Fri Jul 20 02:07:29 2018)
+('process', 16, 'out of total ', 65, 'started')
+making rnn doom environment
+(32_w,64)-aCMA-ES (mu_w=17.6,w_1=11%) in dimension 1088 (seed=152514, Fri Jul 20 02:07:29 2018)
+('process', 12, 'out of total ', 65, 'started')
+making rnn doom environment
+(32_w,64)-aCMA-ES (mu_w=17.6,w_1=11%) in dimension 1088 (seed=189658, Fri Jul 20 02:07:29 2018)
+('process', 63, 'out of total ', 65, 'started')
+making rnn doom environment
+('process', 19, 'out of total ', 65, 'started')
+(32_w,64)-aCMA-ES (mu_w=17.6,w_1=11%) in dimension 1088 (seed=213150, Fri Jul 20 02:07:29 2018)
+('process', 50, 'out of total ', 65, 'started')
+making rnn doom environment
+(32_w,64)-aCMA-ES (mu_w=17.6,w_1=11%) in dimension 1088 (seed=233147, Fri Jul 20 02:07:29 2018)
+('process', 59, 'out of total ', 65, 'started')
+making rnn doom environment
+making rnn doom environment
+(32_w,64)-aCMA-ES (mu_w=17.6,w_1=11%) in dimension 1088 (seed=208364, Fri Jul 20 02:07:29 2018)
+(32_w,64)-aCMA-ES (mu_w=17.6,w_1=11%) in dimension 1088 (seed=158199, Fri Jul 20 02:07:29 2018)
+('process', 27, 'out of total ', 65, 'started')
+making rnn doom environment
+(32_w,64)-aCMA-ES (mu_w=17.6,w_1=11%) in dimension 1088 (seed=205047, Fri Jul 20 02:07:29 2018)
+(32_w,64)-aCMA-ES (mu_w=17.6,w_1=11%) in dimension 1088 (seed=147378, Fri Jul 20 02:07:29 2018)
+('process', 62, 'out of total ', 65, 'started')
+('process', 5, 'out of total ', 65, 'started')
+making rnn doom environment
+making rnn doom environment
+(32_w,64)-aCMA-ES (mu_w=17.6,w_1=11%) in dimension 1088 (seed=186441, Fri Jul 20 02:07:29 2018)
+(32_w,64)-aCMA-ES (mu_w=17.6,w_1=11%) in dimension 1088 (seed=204427, Fri Jul 20 02:07:29 2018)
+('process', 25, 'out of total ', 65, 'started')
+making rnn doom environment
+('process', 35, 'out of total ', 65, 'started')
+making rnn doom environment
+(32_w,64)-aCMA-ES (mu_w=17.6,w_1=11%) in dimension 1088 (seed=149022, Fri Jul 20 02:07:29 2018)
+('process', 46, 'out of total ', 65, 'started')
+making rnn doom environment
+('process', 2, 'out of total ', 65, 'started')
+making rnn doom environment
+(32_w,64)-aCMA-ES (mu_w=17.6,w_1=11%) in dimension 1088 (seed=212956, Fri Jul 20 02:07:29 2018)
+('process', 15, 'out of total ', 65, 'started')
+making rnn doom environment
+(32_w,64)-aCMA-ES (mu_w=17.6,w_1=11%) in dimension 1088 (seed=242899, Fri Jul 20 02:07:29 2018)
+('process', 18, 'out of total ', 65, 'started')
+making rnn doom environment
+(32_w,64)-aCMA-ES (mu_w=17.6,w_1=11%) in dimension 1088 (seed=205037, Fri Jul 20 02:07:29 2018)
+('process', 0, 'out of total ', 65, 'started')
+('training', 'doomrnn')
+('population', 64)
+('num_worker', 64)
+('num_worker_trial', 1)
+making rnn doom environment
+(32_w,64)-aCMA-ES (mu_w=17.6,w_1=11%) in dimension 1088 (seed=199783, Fri Jul 20 02:07:29 2018)
+('process', 32, 'out of total ', 65, 'started')
+making rnn doom environment
+(32_w,64)-aCMA-ES (mu_w=17.6,w_1=11%) in dimension 1088 (seed=197578, Fri Jul 20 02:07:29 2018)
+(32_w,64)-aCMA-ES (mu_w=17.6,w_1=11%) in dimension 1088 (seed=203884, Fri Jul 20 02:07:29 2018)
+('process', 41, 'out of total ', 65, 'started')
+making rnn doom environment
+('process', 10, 'out of total ', 65, 'started')
+making rnn doom environment
+(32_w,64)-aCMA-ES (mu_w=17.6,w_1=11%) in dimension 1088 (seed=174440, Fri Jul 20 02:07:29 2018)
+('process', 64, 'out of total ', 65, 'started')
+making rnn doom environment
+(32_w,64)-aCMA-ES (mu_w=17.6,w_1=11%) in dimension 1088 (seed=228613, Fri Jul 20 02:07:29 2018)
+('process', 42, 'out of total ', 65, 'started')
+making rnn doom environment
+(32_w,64)-aCMA-ES (mu_w=17.6,w_1=11%) in dimension 1088 (seed=232546, Fri Jul 20 02:07:29 2018)
+('process', 1, 'out of total ', 65, 'started')
+making rnn doom environment
+(32_w,64)-aCMA-ES (mu_w=17.6,w_1=11%) in dimension 1088 (seed=221747, Fri Jul 20 02:07:29 2018)
+('process', 7, 'out of total ', 65, 'started')
+making rnn doom environment
+(32_w,64)-aCMA-ES (mu_w=17.6,w_1=11%) in dimension 1088 (seed=218470, Fri Jul 20 02:07:29 2018)
+('process', 23, 'out of total ', 65, 'started')
+making rnn doom environment
+(32_w,64)-aCMA-ES (mu_w=17.6,w_1=11%) in dimension 1088 (seed=215805, Fri Jul 20 02:07:29 2018)
+('process', 9, 'out of total ', 65, 'started')
+making rnn doom environment
+(32_w,64)-aCMA-ES (mu_w=17.6,w_1=11%) in dimension 1088 (seed=215795, Fri Jul 20 02:07:29 2018)
+('process', 37, 'out of total ', 65, 'started')
+making rnn doom environment
+assigning the rank and nworkers 65 34
+size of model 1088
+(32_w,64)-aCMA-ES (mu_w=17.6,w_1=11%) in dimension 1088 (seed=177492, Fri Jul 20 02:07:29 2018)
+('process', 49, 'out of total ', 65, 'started')
+making rnn doom environment
+(32_w,64)-aCMA-ES (mu_w=17.6,w_1=11%) in dimension 1088 (seed=221406, Fri Jul 20 02:07:29 2018)
+('process', 48, 'out of total ', 65, 'started')
+making rnn doom environment
+(32_w,64)-aCMA-ES (mu_w=17.6,w_1=11%) in dimension 1088 (seed=172148, Fri Jul 20 02:07:29 2018)
+('process', 40, 'out of total ', 65, 'started')
+making rnn doom environment
+(32_w,64)-aCMA-ES (mu_w=17.6,w_1=11%) in dimension 1088 (seed=202751, Fri Jul 20 02:07:29 2018)
+('process', 4, 'out of total ', 65, 'started')
+making rnn doom environment
+(32_w,64)-aCMA-ES (mu_w=17.6,w_1=11%) in dimension 1088 (seed=227467, Fri Jul 20 02:07:29 2018)
+('process', 44, 'out of total ', 65, 'started')
+making rnn doom environment
+(32_w,64)-aCMA-ES (mu_w=17.6,w_1=11%) in dimension 1088 (seed=217917, Fri Jul 20 02:07:29 2018)
+('process', 30, 'out of total ', 65, 'started')
+making rnn doom environment
+(32_w,64)-aCMA-ES (mu_w=17.6,w_1=11%) in dimension 1088 (seed=201845, Fri Jul 20 02:07:29 2018)
+('process', 6, 'out of total ', 65, 'started')
+making rnn doom environment
+assigning the rank and nworkers 65 47
+size of model 1088
+(32_w,64)-aCMA-ES (mu_w=17.6,w_1=11%) in dimension 1088 (seed=188362, Fri Jul 20 02:07:29 2018)
+('process', 17, 'out of total ', 65, 'started')
+making rnn doom environment
+(32_w,64)-aCMA-ES (mu_w=17.6,w_1=11%) in dimension 1088 (seed=121522, Fri Jul 20 02:07:30 2018)
+('process', 60, 'out of total ', 65, 'started')
+making rnn doom environment
+(32_w,64)-aCMA-ES (mu_w=17.6,w_1=11%) in dimension 1088 (seed=59703, Fri Jul 20 02:07:30 2018)
+assigning the rank and nworkers 65 22
+('process', 36, 'out of total ', 65, 'started')
+making rnn doom environment
+size of model 1088
+(32_w,64)-aCMA-ES (mu_w=17.6,w_1=11%) in dimension 1088 (seed=88917, Fri Jul 20 02:07:30 2018)
+(32_w,64)-aCMA-ES (mu_w=17.6,w_1=11%) in dimension 1088 (seed=98619, Fri Jul 20 02:07:30 2018)
+('process', 28, 'out of total ', 65, 'started')
+making rnn doom environment
+('process', 61, 'out of total ', 65, 'started')
+making rnn doom environment
+(32_w,64)-aCMA-ES (mu_w=17.6,w_1=11%) in dimension 1088 (seed=153266, Fri Jul 20 02:07:30 2018)
+assigning the rank and nworkers 65 11
+('process', 21, 'out of total ', 65, 'started')
+making rnn doom environment
+size of model 1088
+(32_w,64)-aCMA-ES (mu_w=17.6,w_1=11%) in dimension 1088 (seed=111347, Fri Jul 20 02:07:30 2018)
+('process', 26, 'out of total ', 65, 'started')
+making rnn doom environment
+assigning the rank and nworkers 65 52
+assigning the rank and nworkers 65 54
+size of model 1088
+size of model 1088
+assigning the rank and nworkers 65 29
+size of model 1088
+assigning the rank and nworkers 65 20
+size of model 1088
+assigning the rank and nworkers 65 45
+size of model 1088
+assigning the rank and nworkers 65 33
+size of model 1088
+assigning the rank and nworkers 65 57
+size of model 1088
+assigning the rank and nworkers 65 53
+size of model 1088
+assigning the rank and nworkers 65 56
+size of model 1088
+(32_w,64)-aCMA-ES (mu_w=17.6,w_1=11%) in dimension 1088 (seed=154772, Fri Jul 20 02:07:30 2018)
+(32_w,64)-aCMA-ES (mu_w=17.6,w_1=11%) in dimension 1088 (seed=128781, Fri Jul 20 02:07:30 2018)
+('process', 38, 'out of total ', 65, 'started')
+making rnn doom environment
+('process', 24, 'out of total ', 65, 'started')
+making rnn doom environment
+assigning the rank and nworkers 65 14
+size of model 1088
+assigning the rank and nworkers 65 43
+size of model 1088
+(32_w,64)-aCMA-ES (mu_w=17.6,w_1=11%) in dimension 1088 (seed=65616, Fri Jul 20 02:07:30 2018)
+('process', 34, 'out of total ', 65, 'started')
+making rnn doom environment
+assigning the rank and nworkers 65 39
+size of model 1088
+(32_w,64)-aCMA-ES (mu_w=17.6,w_1=11%) in dimension 1088 (seed=140879, Fri Jul 20 02:07:30 2018)
+('process', 47, 'out of total ', 65, 'started')
+making rnn doom environment
+assigning the rank and nworkers 65 31
+size of model 1088
+(32_w,64)-aCMA-ES (mu_w=17.6,w_1=11%) in dimension 1088 (seed=156871, Fri Jul 20 02:07:30 2018)
+('process', 57, 'out of total ', 65, 'started')
+making rnn doom environment
+(32_w,64)-aCMA-ES (mu_w=17.6,w_1=11%) in dimension 1088 (seed=92905, Fri Jul 20 02:07:30 2018)
+('process', 22, 'out of total ', 65, 'started')
+making rnn doom environment
+(32_w,64)-aCMA-ES (mu_w=17.6,w_1=11%) in dimension 1088 (seed=70445, Fri Jul 20 02:07:30 2018)
+('process', 54, 'out of total ', 65, 'started')
+making rnn doom environment
+(32_w,64)-aCMA-ES (mu_w=17.6,w_1=11%) in dimension 1088 (seed=86892, Fri Jul 20 02:07:30 2018)
+('process', 52, 'out of total ', 65, 'started')
+(32_w,64)-aCMA-ES (mu_w=17.6,w_1=11%) in dimension 1088 (seed=160579, Fri Jul 20 02:07:30 2018)
+('process', 11, 'out of total ', 65, 'started')
+making rnn doom environment
+making rnn doom environment
+(32_w,64)-aCMA-ES (mu_w=17.6,w_1=11%) in dimension 1088 (seed=74905, Fri Jul 20 02:07:30 2018)
+('process', 29, 'out of total ', 65, 'started')
+making rnn doom environment
+(32_w,64)-aCMA-ES (mu_w=17.6,w_1=11%) in dimension 1088 (seed=147932, Fri Jul 20 02:07:30 2018)
+('process', 20, 'out of total ', 65, 'started')
+making rnn doom environment
+(32_w,64)-aCMA-ES (mu_w=17.6,w_1=11%) in dimension 1088 (seed=125775, Fri Jul 20 02:07:30 2018)
+('process', 33, 'out of total ', 65, 'started')
+making rnn doom environment
+(32_w,64)-aCMA-ES (mu_w=17.6,w_1=11%) in dimension 1088 (seed=91189, Fri Jul 20 02:07:30 2018)
+('process', 53, 'out of total ', 65, 'started')
+making rnn doom environment
+assigning the rank and nworkers 65 8
+size of model 1088
+assigning the rank and nworkers 65 55
+size of model 1088
+(32_w,64)-aCMA-ES (mu_w=17.6,w_1=11%) in dimension 1088 (seed=119984, Fri Jul 20 02:07:30 2018)
+('process', 56, 'out of total ', 65, 'started')
+making rnn doom environment
+(32_w,64)-aCMA-ES (mu_w=17.6,w_1=11%) in dimension 1088 (seed=143326, Fri Jul 20 02:07:30 2018)
+('process', 43, 'out of total ', 65, 'started')
+making rnn doom environment
+assigning the rank and nworkers 65 51
+size of model 1088
+(32_w,64)-aCMA-ES (mu_w=17.6,w_1=11%) in dimension 1088 (seed=151523, Fri Jul 20 02:07:30 2018)
+('process', 45, 'out of total ', 65, 'started')
+making rnn doom environment
+assigning the rank and nworkers 65 58
+size of model 1088
+(32_w,64)-aCMA-ES (mu_w=17.6,w_1=11%) in dimension 1088 (seed=125001, Fri Jul 20 02:07:30 2018)
+('process', 14, 'out of total ', 65, 'started')
+making rnn doom environment
+(32_w,64)-aCMA-ES (mu_w=17.6,w_1=11%) in dimension 1088 (seed=165912, Fri Jul 20 02:07:30 2018)
+('process', 31, 'out of total ', 65, 'started')
+making rnn doom environment
+(32_w,64)-aCMA-ES (mu_w=17.6,w_1=11%) in dimension 1088 (seed=159651, Fri Jul 20 02:07:30 2018)
+('process', 39, 'out of total ', 65, 'started')
+making rnn doom environment
+(32_w,64)-aCMA-ES (mu_w=17.6,w_1=11%) in dimension 1088 (seed=146774, Fri Jul 20 02:07:30 2018)
+('process', 51, 'out of total ', 65, 'started')
+making rnn doom environment
+(32_w,64)-aCMA-ES (mu_w=17.6,w_1=11%) in dimension 1088 (seed=150097, Fri Jul 20 02:07:30 2018)
+('process', 8, 'out of total ', 65, 'started')
+making rnn doom environment
+(32_w,64)-aCMA-ES (mu_w=17.6,w_1=11%) in dimension 1088 (seed=135418, Fri Jul 20 02:07:30 2018)
+('process', 55, 'out of total ', 65, 'started')
+making rnn doom environment
+(32_w,64)-aCMA-ES (mu_w=17.6,w_1=11%) in dimension 1088 (seed=110990, Fri Jul 20 02:07:30 2018)
+('process', 58, 'out of total ', 65, 'started')
+making rnn doom environment
+model using cpu
+model using cpu
+model using cpu
+model using cpu
+model using cpu
+model using cpu
+model using cpu
+model using cpu
+model using cpu
+model using cpu
+model using cpu
+model using cpu
+model using cpu
+model using cpu
+model using cpu
+model using cpu
+model using cpu
+model using cpu
+model using cpu
+model using cpu
+model using cpu
+model using cpu
+model using cpu
+model using cpu
+model using cpu
+model using cpu
+model using cpu
+model using cpu
+model using cpu
+model using cpu
+model using cpu
+model using cpu
+model using cpu
+model using cpu
+model using cpu
+model using cpu
+model using cpu
+model using cpu
+model using cpu
+model using cpu
+model using cpu
+model using cpu
+model using cpu
+model using cpu
+model using cpu
+model using cpu
+model using cpu
+model using cpu
+model using cpu
+model using cpu
+model using cpu
+model using cpu
+model using cpu
+model using cpu
+model using cpu
+model using cpu
+model using cpu
+model using cpu
+model using cpu
+model using cpu
+model using cpu
+model using cpu
+model using cpu
+model using cpu
+model using cpu
+input dropout mode = False
+output dropout mode = False
+recurrent dropout mode = False
+input dropout mode = False
+output dropout mode = False
+recurrent dropout mode = False
+input dropout mode = False
+output dropout mode = False
+recurrent dropout mode = False
+input dropout mode = False
+output dropout mode = False
+recurrent dropout mode = False
+input dropout mode = False
+output dropout mode = False
+recurrent dropout mode = False
+input dropout mode = False
+output dropout mode = False
+recurrent dropout mode = False
+input dropout mode = False
+output dropout mode = False
+recurrent dropout mode = False
+input dropout mode = False
+output dropout mode = False
+recurrent dropout mode = False
+input dropout mode = False
+output dropout mode = False
+recurrent dropout mode = False
+input dropout mode = False
+output dropout mode = False
+recurrent dropout mode = False
+input dropout mode = False
+output dropout mode = False
+recurrent dropout mode = False
+input dropout mode = False
+input dropout mode = False
+output dropout mode = False
+recurrent dropout mode = False
+output dropout mode = False
+recurrent dropout mode = False
+input dropout mode = False
+output dropout mode = False
+recurrent dropout mode = False
+input dropout mode = False
+output dropout mode = False
+recurrent dropout mode = False
+input dropout mode = False
+output dropout mode = False
+recurrent dropout mode = False
+input dropout mode = False
+output dropout mode = False
+recurrent dropout mode = False
+input dropout mode = False
+output dropout mode = False
+recurrent dropout mode = False
+input dropout mode = False
+output dropout mode = False
+recurrent dropout mode = False
+input dropout mode = False
+output dropout mode = False
+recurrent dropout mode = False
+input dropout mode = False
+output dropout mode = False
+recurrent dropout mode = False
+input dropout mode = False
+output dropout mode = False
+recurrent dropout mode = False
+input dropout mode = False
+output dropout mode = False
+recurrent dropout mode = False
+input dropout mode = False
+output dropout mode = False
+recurrent dropout mode = False
+input dropout mode = False
+output dropout mode = False
+recurrent dropout mode = False
+input dropout mode = False
+output dropout mode = False
+recurrent dropout mode = False
+input dropout mode = False
+output dropout mode = False
+recurrent dropout mode = False
+input dropout mode = False
+output dropout mode = False
+recurrent dropout mode = False
+input dropout mode = False
+output dropout mode = False
+recurrent dropout mode = False
+input dropout mode = False
+output dropout mode = False
+recurrent dropout mode = False
+input dropout mode = False
+output dropout mode = False
+recurrent dropout mode = False
+input dropout mode = False
+output dropout mode = False
+recurrent dropout mode = False
+input dropout mode = False
+output dropout mode = False
+recurrent dropout mode = False
+input dropout mode = False
+output dropout mode = False
+recurrent dropout mode = False
+input dropout mode = False
+output dropout mode = False
+recurrent dropout mode = False
+input dropout mode = False
+output dropout mode = False
+recurrent dropout mode = False
+input dropout mode = False
+output dropout mode = False
+recurrent dropout mode = False
+input dropout mode = False
+output dropout mode = False
+recurrent dropout mode = False
+input dropout mode = False
+output dropout mode = False
+recurrent dropout mode = False
+input dropout mode = False
+output dropout mode = False
+recurrent dropout mode = False
+input dropout mode = False
+output dropout mode = False
+recurrent dropout mode = False
+input dropout mode = False
+output dropout mode = False
+recurrent dropout mode = False
+input dropout mode = False
+output dropout mode = False
+recurrent dropout mode = False
+input dropout mode = False
+output dropout mode = False
+recurrent dropout mode = False
+input dropout mode = False
+output dropout mode = False
+recurrent dropout mode = False
+input dropout mode = False
+output dropout mode = False
+recurrent dropout mode = False
+input dropout mode = False
+output dropout mode = False
+recurrent dropout mode = False
+input dropout mode = False
+output dropout mode = False
+recurrent dropout mode = False
+input dropout mode = False
+output dropout mode = False
+recurrent dropout mode = False
+input dropout mode = False
+output dropout mode = False
+recurrent dropout mode = False
+input dropout mode = False
+output dropout mode = False
+recurrent dropout mode = False
+input dropout mode = False
+output dropout mode = False
+recurrent dropout mode = False
+input dropout mode = False
+output dropout mode = False
+recurrent dropout mode = False
+input dropout mode = False
+output dropout mode = False
+recurrent dropout mode = False
+input dropout mode = False
+output dropout mode = False
+recurrent dropout mode = False
+input dropout mode = False
+output dropout mode = False
+recurrent dropout mode = False
+input dropout mode = False
+output dropout mode = False
+recurrent dropout mode = False
+input dropout mode = False
+output dropout mode = False
+recurrent dropout mode = False
+input dropout mode = False
+output dropout mode = False
+recurrent dropout mode = False
+input dropout mode = False
+output dropout mode = False
+recurrent dropout mode = False
+input dropout mode = False
+output dropout mode = False
+recurrent dropout mode = False
+input dropout mode = False
+output dropout mode = False
+recurrent dropout mode = False
+input dropout mode = False
+output dropout mode = False
+recurrent dropout mode = False
+input dropout mode = False
+output dropout mode = False
+recurrent dropout mode = False
+input dropout mode = False
+output dropout mode = False
+recurrent dropout mode = False
+('doomrnn', (1, 55, 257.35, 126.75, 459.37, 68.6, 0.0986, 257.35, 459))
+('doomrnn', (2, 93, 285.97, 176.68, 424.62, 51.31, 0.09735, 285.97, 424))
+('doomrnn', (3, 131, 282.51, 150.75, 433.87, 53.49, 0.09622, 282.51, 433))
+('doomrnn', (4, 175, 297.99, 158.37, 527.75, 66.23, 0.09516, 297.99, 527))
+('doomrnn', (5, 221, 290.38, 176.12, 557.06, 69.19, 0.09417, 290.38, 557))
+('doomrnn', (6, 267, 311.22, 172.68, 564.0, 74.23, 0.09326, 311.22, 564))
+('doomrnn', (7, 316, 325.44, 173.87, 581.87, 81.05, 0.0924, 325.44, 581))
+('doomrnn', (8, 364, 324.34, 155.62, 580.87, 90.83, 0.09159, 324.34, 580))
+('doomrnn', (9, 419, 349.5, 142.12, 652.62, 108.68, 0.09084, 349.5, 652))
+('doomrnn', (10, 470, 340.25, 170.68, 624.75, 94.29, 0.09014, 340.25, 624))
+('doomrnn', (11, 522, 350.01, 153.0, 634.87, 104.63, 0.08947, 350.01, 634))
+('doomrnn', (12, 576, 362.96, 154.37, 617.06, 110.03, 0.08886, 362.96, 617))
+('doomrnn', (13, 631, 394.31, 147.37, 635.62, 108.87, 0.08829, 394.31, 635))
+('doomrnn', (14, 688, 393.3, 231.31, 669.31, 94.68, 0.08774, 393.3, 669))
+('doomrnn', (15, 740, 409.84, 184.12, 568.06, 100.56, 0.08723, 409.84, 568))
+('doomrnn', (16, 798, 402.8, 190.43, 686.93, 99.47, 0.08675, 402.8, 686))
+('doomrnn', (17, 856, 438.36, 284.87, 647.0, 94.28, 0.08629, 438.36, 647))
+('doomrnn', (18, 913, 411.14, 183.68, 642.68, 107.88, 0.08587, 411.14, 642))
+('doomrnn', (19, 974, 425.19, 208.68, 698.5, 112.23, 0.08548, 425.19, 698))
+('doomrnn', (20, 1038, 430.86, 173.87, 776.18, 116.37, 0.08513, 430.86, 776))
+('doomrnn', (21, 1098, 417.14, 202.81, 678.18, 112.77, 0.08481, 417.14, 678))
+('doomrnn', (22, 1154, 435.97, 169.81, 614.56, 106.38, 0.08452, 435.97, 614))
+('doomrnn', (23, 1219, 469.01, 151.5, 725.5, 125.49, 0.08423, 469.01, 725))
+('doomrnn', (24, 1281, 446.75, 168.5, 709.62, 118.45, 0.08395, 446.75, 709))
+('doomrnn', (25, 1347, 492.5, 214.81, 722.06, 105.75, 0.08369, 492.5, 722))
+('Eval', 25, 1423, 'improvement', 335.75351562499998, 'curr', 593.103515625, 'prev', 257.35, 'best', 593.103515625)
+('doomrnn', (26, 1487, 490.02, 285.0, 699.56, 101.04, 0.08344, 490.02, 699))
+('doomrnn', (27, 1556, 484.87, 269.62, 813.5, 120.6, 0.0832, 484.87, 813))
+('doomrnn', (28, 1619, 451.13, 231.0, 737.25, 99.1, 0.08298, 451.13, 737))
+('doomrnn', (29, 1684, 494.69, 271.37, 706.87, 94.05, 0.08276, 494.69, 706))
+('doomrnn', (30, 1753, 497.6, 260.18, 790.93, 116.08, 0.08255, 497.6, 790))
+('doomrnn', (31, 1821, 520.16, 316.68, 746.12, 110.92, 0.08237, 520.16, 746))
+('doomrnn', (32, 1888, 479.29, 173.0, 778.25, 118.71, 0.08218, 479.29, 778))
+('doomrnn', (33, 1958, 498.23, 167.0, 812.62, 116.28, 0.08199, 498.23, 812))
+('doomrnn', (34, 2022, 479.98, 303.0, 723.81, 89.77, 0.0818, 479.98, 723))
+('doomrnn', (35, 2084, 474.32, 324.25, 688.5, 93.21, 0.08161, 474.32, 688))
+('doomrnn', (36, 2156, 500.37, 281.12, 841.75, 118.01, 0.08144, 500.37, 841))
+('doomrnn', (37, 2223, 475.46, 249.43, 805.68, 100.51, 0.08127, 475.46, 805))
+('doomrnn', (38, 2293, 522.23, 299.68, 786.5, 108.26, 0.08112, 522.23, 786))
+('doomrnn', (39, 2367, 498.89, 272.62, 941.31, 111.77, 0.08099, 498.89, 941))
+('doomrnn', (40, 2433, 489.5, 297.25, 767.37, 99.46, 0.08087, 489.5, 767))
+('doomrnn', (41, 2499, 497.84, 259.62, 720.56, 106.89, 0.08077, 497.84, 720))
+('doomrnn', (42, 2570, 495.24, 287.0, 848.56, 116.16, 0.08066, 495.24, 848))
+('doomrnn', (43, 2638, 508.86, 263.75, 772.81, 113.08, 0.08055, 508.86, 772))
+('doomrnn', (44, 2705, 478.85, 325.37, 778.12, 103.68, 0.08045, 478.85, 778))
+('doomrnn', (45, 2766, 469.4, 292.62, 655.5, 86.19, 0.08036, 469.4, 655))
+('doomrnn', (46, 2828, 469.69, 256.62, 711.62, 96.92, 0.08027, 469.69, 711))
+('doomrnn', (47, 2898, 485.34, 253.0, 847.75, 111.83, 0.08018, 485.34, 847))
+('doomrnn', (48, 2970, 513.87, 286.87, 844.06, 126.22, 0.08013, 513.87, 844))
+('doomrnn', (49, 3040, 525.15, 277.12, 780.0, 104.81, 0.08008, 525.15, 780))
+('doomrnn', (50, 3109, 513.25, 222.5, 782.75, 124.65, 0.08004, 513.25, 782))
+('Eval', 50, 3188, 'improvement', -4.083984375, 'curr', 589.01953125, 'prev', 593.103515625, 'best', 593.103515625)
+('doomrnn', (51, 3265, 521.03, 303.81, 940.5, 118.76, 0.08, 521.03, 940))
+('doomrnn', (52, 3336, 514.92, 220.75, 788.31, 120.36, 0.07995, 514.92, 788))
+('doomrnn', (53, 3408, 536.82, 287.37, 798.62, 117.69, 0.07992, 536.82, 798))
+('doomrnn', (54, 3483, 535.54, 315.87, 873.31, 120.32, 0.07988, 535.54, 873))
+('doomrnn', (55, 3562, 560.28, 337.75, 932.87, 131.01, 0.07983, 560.28, 932))
+('doomrnn', (56, 3632, 522.82, 272.0, 788.0, 109.37, 0.0798, 522.82, 788))
+('doomrnn', (57, 3705, 536.99, 327.56, 830.93, 111.44, 0.07978, 536.99, 830))
+('doomrnn', (58, 3775, 522.12, 311.12, 797.87, 118.07, 0.07978, 522.12, 797))
+('doomrnn', (59, 3847, 553.12, 329.81, 813.43, 100.46, 0.07977, 553.12, 813))
+('doomrnn', (60, 3919, 532.8, 333.62, 797.37, 111.14, 0.07977, 532.8, 797))
+('doomrnn', (61, 3986, 524.77, 343.87, 746.12, 98.73, 0.07976, 524.77, 746))
+('doomrnn', (62, 4059, 530.01, 226.56, 858.93, 116.59, 0.07975, 530.01, 858))
+('doomrnn', (63, 4135, 570.59, 406.68, 879.93, 99.12, 0.07972, 570.59, 879))
+('doomrnn', (64, 4209, 550.87, 325.31, 827.12, 103.28, 0.0797, 550.87, 827))
+('doomrnn', (65, 4283, 552.68, 241.12, 815.31, 123.18, 0.07967, 552.68, 815))
+('doomrnn', (66, 4354, 544.65, 293.25, 774.68, 115.25, 0.07965, 544.65, 774))
+('doomrnn', (67, 4426, 550.43, 283.87, 820.43, 106.66, 0.07965, 550.43, 820))
+('doomrnn', (68, 4497, 532.44, 340.87, 805.06, 103.32, 0.07964, 532.44, 805))
+('doomrnn', (69, 4569, 537.23, 357.93, 832.43, 96.4, 0.07964, 537.23, 832))
+('doomrnn', (70, 4646, 571.58, 325.18, 894.68, 105.19, 0.07963, 571.58, 894))
+('doomrnn', (71, 4721, 563.21, 327.75, 845.43, 110.13, 0.0796, 563.21, 845))
+('doomrnn', (72, 4795, 564.5, 326.31, 825.06, 112.99, 0.07957, 564.5, 825))
+('doomrnn', (73, 4867, 542.74, 232.43, 789.12, 119.24, 0.07953, 542.74, 789))
+('doomrnn', (74, 4941, 553.64, 199.06, 839.37, 108.0, 0.0795, 553.64, 839))
+('doomrnn', (75, 5016, 533.89, 227.75, 908.12, 110.72, 0.07946, 533.89, 908))
+('Eval', 75, 5092, 'improvement', 5.1220703125, 'curr', 598.2255859375, 'prev', 593.103515625, 'best', 598.2255859375)
+('doomrnn', (76, 5166, 567.93, 316.31, 795.81, 119.65, 0.07942, 567.93, 795))
+('doomrnn', (77, 5237, 551.91, 339.25, 769.93, 98.62, 0.07938, 551.91, 769))
+('doomrnn', (78, 5315, 563.72, 261.0, 907.06, 130.75, 0.07934, 563.72, 907))
+('doomrnn', (79, 5389, 542.41, 363.56, 864.43, 103.84, 0.0793, 542.41, 864))
+('doomrnn', (80, 5463, 558.76, 320.56, 823.31, 111.45, 0.07927, 558.76, 823))
+('doomrnn', (81, 5539, 559.95, 299.25, 850.37, 115.71, 0.07923, 559.95, 850))
+('doomrnn', (82, 5609, 557.56, 361.18, 775.0, 97.52, 0.0792, 557.56, 775))
+('doomrnn', (83, 5682, 542.75, 271.56, 851.18, 104.95, 0.07918, 542.75, 851))
+('doomrnn', (84, 5754, 545.08, 318.5, 791.62, 98.95, 0.07917, 545.08, 791))
+('doomrnn', (85, 5835, 565.28, 365.87, 939.12, 120.85, 0.07916, 565.28, 939))
+('doomrnn', (86, 5907, 559.15, 295.68, 819.43, 104.58, 0.07915, 559.15, 819))
+('doomrnn', (87, 5981, 557.61, 375.43, 807.31, 104.26, 0.07915, 557.61, 807))
+('doomrnn', (88, 6053, 566.63, 289.56, 788.93, 107.18, 0.07916, 566.63, 788))
+('doomrnn', (89, 6127, 571.14, 359.0, 791.87, 108.3, 0.07917, 571.14, 791))
+('doomrnn', (90, 6203, 563.8, 332.12, 877.68, 108.01, 0.07918, 563.8, 877))
+('doomrnn', (91, 6287, 586.1, 374.81, 1032.93, 108.72, 0.07919, 586.1, 1032))
+('doomrnn', (92, 6359, 556.4, 261.5, 822.68, 103.23, 0.0792, 556.4, 822))
+('doomrnn', (93, 6430, 566.57, 307.43, 763.68, 92.82, 0.0792, 566.57, 763))
+('doomrnn', (94, 6504, 552.84, 284.87, 832.5, 125.34, 0.07919, 552.84, 832))
+('doomrnn', (95, 6577, 556.89, 369.43, 830.68, 101.66, 0.07919, 556.89, 830))
+('doomrnn', (96, 6651, 552.95, 321.5, 830.06, 104.79, 0.07919, 552.95, 830))
+('doomrnn', (97, 6725, 554.52, 300.43, 825.06, 115.93, 0.0792, 554.52, 825))
+('doomrnn', (98, 6797, 560.73, 316.18, 784.81, 99.08, 0.07919, 560.73, 784))
+('doomrnn', (99, 6864, 547.88, 348.56, 714.75, 94.62, 0.07918, 547.88, 714))
+('doomrnn', (100, 6937, 528.28, 327.12, 845.87, 105.15, 0.07918, 528.28, 845))
+('Eval', 100, 7011, 'improvement', -5.9794921875, 'curr', 592.24609375, 'prev', 598.2255859375, 'best', 598.2255859375)
+('doomrnn', (101, 7088, 561.16, 323.93, 862.0, 122.92, 0.07916, 561.16, 862))
+('doomrnn', (102, 7162, 563.77, 337.31, 832.5, 98.67, 0.07917, 563.77, 832))
+('doomrnn', (103, 7235, 579.19, 365.06, 779.06, 103.38, 0.07915, 579.19, 779))
+('doomrnn', (104, 7308, 536.62, 274.68, 833.68, 115.57, 0.07915, 536.62, 833))
+('doomrnn', (105, 7388, 555.4, 359.75, 969.68, 116.09, 0.07914, 555.4, 969))
+('doomrnn', (106, 7463, 565.12, 329.31, 839.5, 106.68, 0.07914, 565.12, 839))
+('doomrnn', (107, 7538, 555.97, 331.81, 879.37, 111.33, 0.07915, 555.97, 879))
+('doomrnn', (108, 7610, 573.99, 309.25, 771.12, 93.4, 0.07917, 573.99, 771))
+('doomrnn', (109, 7686, 577.34, 357.81, 845.31, 108.62, 0.0792, 577.34, 845))
+('doomrnn', (110, 7764, 567.27, 253.43, 895.43, 135.07, 0.07923, 567.27, 895))
+('doomrnn', (111, 7838, 573.39, 296.12, 817.12, 109.39, 0.07927, 573.39, 817))
+('doomrnn', (112, 7918, 588.87, 306.12, 960.5, 111.85, 0.07932, 588.87, 960))
+('doomrnn', (113, 7998, 603.0, 324.68, 887.56, 126.9, 0.07936, 603.0, 887))
+('doomrnn', (114, 8074, 598.06, 343.31, 823.56, 110.71, 0.07939, 598.06, 823))
+('doomrnn', (115, 8143, 552.46, 387.68, 737.62, 86.46, 0.07944, 552.46, 737))
+('doomrnn', (116, 8221, 569.9, 366.75, 880.37, 115.75, 0.07948, 569.9, 880))
+('doomrnn', (117, 8295, 566.99, 372.5, 818.56, 98.81, 0.07952, 566.99, 818))
+('doomrnn', (118, 8366, 540.28, 270.06, 801.75, 106.22, 0.07953, 540.28, 801))
+('doomrnn', (119, 8439, 535.71, 329.18, 851.18, 107.27, 0.07956, 535.71, 851))
+('doomrnn', (120, 8513, 573.92, 336.31, 822.25, 102.57, 0.07959, 573.92, 822))
+('doomrnn', (121, 8592, 585.13, 410.31, 882.81, 105.24, 0.07962, 585.13, 882))
+('doomrnn', (122, 8664, 564.37, 362.81, 791.37, 101.8, 0.07965, 564.37, 791))
+('doomrnn', (123, 8742, 593.13, 333.37, 888.68, 109.1, 0.07969, 593.13, 888))
+('doomrnn', (124, 8812, 554.96, 312.43, 764.31, 106.46, 0.07971, 554.96, 764))
+('doomrnn', (125, 8896, 582.62, 386.12, 988.31, 112.88, 0.07972, 582.62, 988))
+('Eval', 125, 8977, 'improvement', -7.4921875, 'curr', 590.7333984375, 'prev', 598.2255859375, 'best', 598.2255859375)
+('doomrnn', (126, 9056, 564.2, 296.18, 909.12, 123.57, 0.07973, 564.2, 909))
+('doomrnn', (127, 9132, 554.04, 357.87, 878.18, 116.5, 0.07972, 554.04, 878))
+('doomrnn', (128, 9210, 587.13, 272.43, 844.68, 122.29, 0.07973, 587.13, 844))
+('doomrnn', (129, 9287, 565.0, 329.75, 866.81, 114.81, 0.07973, 565.0, 866))
+('doomrnn', (130, 9364, 579.14, 336.37, 861.43, 105.46, 0.07974, 579.14, 861))
+('doomrnn', (131, 9445, 565.5, 380.68, 984.75, 118.09, 0.07976, 565.5, 984))
+('doomrnn', (132, 9521, 573.83, 343.0, 848.87, 108.99, 0.07978, 573.83, 848))
+('doomrnn', (133, 9603, 589.94, 370.31, 945.56, 110.83, 0.07978, 589.94, 945))
+('doomrnn', (134, 9677, 572.9, 345.06, 820.93, 110.05, 0.07977, 572.9, 820))
+('doomrnn', (135, 9757, 587.08, 314.75, 917.5, 122.18, 0.07977, 587.08, 917))
+('doomrnn', (136, 9836, 599.78, 389.87, 883.93, 125.61, 0.07977, 599.78, 883))
+('doomrnn', (137, 9912, 583.42, 347.62, 822.06, 107.58, 0.07979, 583.42, 822))
+('doomrnn', (138, 9989, 565.25, 302.31, 884.12, 110.37, 0.07982, 565.25, 884))
+('doomrnn', (139, 10067, 595.22, 365.93, 873.81, 113.58, 0.07983, 595.22, 873))
+('doomrnn', (140, 10147, 579.7, 346.25, 927.37, 121.41, 0.07984, 579.7, 927))
+('doomrnn', (141, 10223, 580.97, 367.68, 844.87, 105.64, 0.07986, 580.97, 844))
+('doomrnn', (142, 10299, 558.78, 351.12, 852.43, 114.83, 0.07987, 558.78, 852))
+('doomrnn', (143, 10381, 579.88, 353.93, 1011.18, 121.77, 0.07988, 579.88, 1011))
+('doomrnn', (144, 10457, 588.85, 399.56, 840.06, 101.9, 0.07989, 588.85, 840))
+('doomrnn', (145, 10537, 581.62, 322.12, 932.31, 115.13, 0.07989, 581.62, 932))
+('doomrnn', (146, 10613, 610.07, 420.93, 847.5, 86.05, 0.0799, 610.07, 847))
+('doomrnn', (147, 10689, 580.85, 328.37, 837.43, 113.92, 0.0799, 580.85, 837))
+('doomrnn', (148, 10764, 565.54, 376.43, 847.62, 107.35, 0.07991, 565.54, 847))
+('doomrnn', (149, 10847, 596.83, 317.68, 993.37, 124.89, 0.07992, 596.83, 993))
+('doomrnn', (150, 10919, 568.92, 353.12, 791.31, 99.24, 0.07992, 568.92, 791))
+('Eval', 150, 11001, 'improvement', 18.12890625, 'curr', 616.3544921875, 'prev', 598.2255859375, 'best', 616.3544921875)
+('doomrnn', (151, 11078, 577.64, 310.31, 847.87, 123.2, 0.0799, 577.64, 847))
+('doomrnn', (152, 11152, 574.96, 374.81, 827.56, 104.51, 0.07988, 574.96, 827))
+('doomrnn', (153, 11226, 591.15, 402.37, 803.37, 86.25, 0.07986, 591.15, 803))
+('doomrnn', (154, 11297, 559.12, 354.5, 780.31, 90.75, 0.07986, 559.12, 780))
+('doomrnn', (155, 11373, 560.95, 330.87, 874.5, 103.87, 0.07985, 560.95, 874))
+('doomrnn', (156, 11448, 585.77, 367.31, 841.93, 101.39, 0.07983, 585.77, 841))
+('doomrnn', (157, 11533, 593.95, 337.18, 985.25, 130.47, 0.07982, 593.95, 985))
+('doomrnn', (158, 11615, 593.82, 405.18, 952.81, 116.53, 0.0798, 593.82, 952))
+('doomrnn', (159, 11692, 587.49, 364.0, 870.56, 105.23, 0.07978, 587.49, 870))
+('doomrnn', (160, 11769, 592.77, 385.75, 858.43, 95.72, 0.07976, 592.77, 858))
+('doomrnn', (161, 11845, 583.85, 332.87, 835.87, 106.03, 0.07973, 583.85, 835))
+('doomrnn', (162, 11922, 596.16, 313.68, 835.75, 122.99, 0.0797, 596.16, 835))
+('doomrnn', (163, 12002, 592.88, 315.0, 915.75, 132.78, 0.07967, 592.88, 915))
+('doomrnn', (164, 12074, 577.99, 364.68, 770.87, 100.12, 0.07963, 577.99, 770))
+('doomrnn', (165, 12149, 565.24, 241.06, 839.0, 111.26, 0.0796, 565.24, 839))
+('doomrnn', (166, 12227, 589.49, 253.06, 884.31, 116.49, 0.07956, 589.49, 884))
+('doomrnn', (167, 12304, 556.82, 324.62, 870.68, 115.02, 0.07952, 556.82, 870))
+('doomrnn', (168, 12382, 566.78, 358.81, 928.12, 105.75, 0.07948, 566.78, 928))
+('doomrnn', (169, 12466, 571.76, 367.81, 1033.25, 123.91, 0.07944, 571.76, 1033))
+('doomrnn', (170, 12540, 546.1, 306.81, 862.37, 117.12, 0.0794, 546.1, 862))
+('doomrnn', (171, 12614, 577.12, 343.12, 814.0, 114.7, 0.07936, 577.12, 814))
+('doomrnn', (172, 12690, 584.37, 380.37, 835.31, 94.57, 0.07931, 584.37, 835))
+('doomrnn', (173, 12772, 608.94, 373.18, 910.12, 127.55, 0.07927, 608.94, 910))
+('doomrnn', (174, 12859, 590.22, 345.81, 1092.5, 125.53, 0.07922, 590.22, 1092))
+('doomrnn', (175, 12936, 576.15, 378.06, 873.81, 103.65, 0.07917, 576.15, 873))
+('Eval', 175, 13021, 'improvement', 4.2841796875, 'curr', 620.638671875, 'prev', 616.3544921875, 'best', 620.638671875)
+('doomrnn', (176, 13102, 584.88, 331.12, 964.18, 124.32, 0.07912, 584.88, 964))
+('doomrnn', (177, 13175, 569.01, 375.93, 790.25, 101.09, 0.07907, 569.01, 790))
+('doomrnn', (178, 13251, 580.81, 360.56, 842.31, 116.46, 0.07904, 580.81, 842))
+('doomrnn', (179, 13336, 612.69, 399.25, 989.75, 124.93, 0.07901, 612.69, 989))
+('doomrnn', (180, 13415, 597.08, 408.75, 919.93, 99.36, 0.07898, 597.08, 919))
+('doomrnn', (181, 13490, 578.08, 315.5, 820.0, 111.11, 0.07895, 578.08, 820))
+('doomrnn', (182, 13574, 607.37, 379.12, 958.5, 131.74, 0.07893, 607.37, 958))
+('doomrnn', (183, 13647, 565.48, 323.87, 814.5, 103.3, 0.07889, 565.48, 814))
+('doomrnn', (184, 13724, 580.54, 329.81, 868.43, 110.77, 0.07883, 580.54, 868))
+('doomrnn', (185, 13799, 584.74, 375.37, 816.81, 100.82, 0.07877, 584.74, 816))
+('doomrnn', (186, 13878, 579.05, 325.12, 914.25, 112.54, 0.07871, 579.05, 914))
+('doomrnn', (187, 13955, 591.12, 303.18, 852.25, 124.49, 0.07866, 591.12, 852))
+('doomrnn', (188, 14026, 571.05, 388.37, 771.81, 92.52, 0.07861, 571.05, 771))
+('doomrnn', (189, 14108, 606.07, 348.93, 927.12, 115.64, 0.07857, 606.07, 927))
+('doomrnn', (190, 14188, 579.96, 318.12, 948.62, 120.47, 0.07851, 579.96, 948))
+('doomrnn', (191, 14264, 588.53, 355.75, 834.81, 93.0, 0.07846, 588.53, 834))
+('doomrnn', (192, 14342, 603.69, 408.18, 872.0, 104.23, 0.07843, 603.69, 872))
+('doomrnn', (193, 14417, 579.11, 385.25, 833.56, 102.71, 0.07841, 579.11, 833))
+('doomrnn', (194, 14491, 577.16, 394.75, 799.75, 101.45, 0.07838, 577.16, 799))
+('doomrnn', (195, 14565, 613.24, 361.56, 803.43, 94.54, 0.07836, 613.24, 803))
+('doomrnn', (196, 14644, 582.69, 368.43, 905.5, 119.39, 0.07834, 582.69, 905))
+('doomrnn', (197, 14721, 583.69, 388.18, 878.31, 101.14, 0.07832, 583.69, 878))
+('doomrnn', (198, 14798, 597.86, 384.43, 840.68, 110.6, 0.07829, 597.86, 840))
+('doomrnn', (199, 14876, 597.16, 325.62, 859.81, 118.98, 0.07828, 597.16, 859))
+('doomrnn', (200, 14953, 601.65, 403.43, 847.62, 104.6, 0.07827, 601.65, 847))
+('Eval', 200, 15033, 'improvement', -1.890625, 'curr', 618.748046875, 'prev', 620.638671875, 'best', 620.638671875)
+('doomrnn', (201, 15110, 591.8, 331.43, 845.62, 103.44, 0.07826, 591.8, 845))
+('doomrnn', (202, 15185, 603.18, 396.37, 818.56, 93.17, 0.07826, 603.18, 818))
+('doomrnn', (203, 15258, 572.01, 321.75, 794.12, 102.6, 0.07827, 572.01, 794))
+('doomrnn', (204, 15333, 572.91, 399.62, 845.56, 98.3, 0.07827, 572.91, 845))
+('doomrnn', (205, 15415, 601.1, 324.06, 915.43, 121.99, 0.07827, 601.1, 915))
+('doomrnn', (206, 15488, 579.45, 415.43, 799.81, 95.16, 0.07825, 579.45, 799))
+('doomrnn', (207, 15569, 597.79, 391.5, 914.68, 116.42, 0.07824, 597.79, 914))
+('doomrnn', (208, 15647, 567.74, 370.68, 894.81, 110.54, 0.07823, 567.74, 894))
+('doomrnn', (209, 15722, 589.03, 427.0, 824.0, 98.5, 0.07821, 589.03, 824))
+('doomrnn', (210, 15800, 569.51, 335.0, 912.37, 102.09, 0.0782, 569.51, 912))
+('doomrnn', (211, 15877, 584.13, 381.18, 887.37, 103.2, 0.07819, 584.13, 887))
+('doomrnn', (212, 15958, 575.01, 356.56, 981.81, 118.4, 0.07819, 575.01, 981))
+('doomrnn', (213, 16034, 603.12, 375.5, 816.25, 89.63, 0.07817, 603.12, 816))
+('doomrnn', (214, 16113, 588.83, 431.87, 928.75, 96.44, 0.07816, 588.83, 928))
+('doomrnn', (215, 16194, 607.81, 393.37, 911.62, 115.37, 0.07816, 607.81, 911))
+('doomrnn', (216, 16274, 594.85, 409.31, 910.93, 104.12, 0.07816, 594.85, 910))
+('doomrnn', (217, 16348, 600.97, 419.43, 804.12, 83.06, 0.07816, 600.97, 804))
+('doomrnn', (218, 16425, 569.64, 388.62, 881.31, 102.23, 0.07815, 569.64, 881))
+('doomrnn', (219, 16505, 582.76, 418.18, 920.12, 108.95, 0.07813, 582.76, 920))
+('doomrnn', (220, 16586, 609.27, 371.62, 916.87, 116.79, 0.0781, 609.27, 916))
+('doomrnn', (221, 16665, 586.15, 356.12, 862.0, 108.44, 0.07807, 586.15, 862))
+('doomrnn', (222, 16742, 602.44, 389.25, 865.25, 97.82, 0.07805, 602.44, 865))
+('doomrnn', (223, 16819, 598.63, 313.75, 857.81, 101.59, 0.078, 598.63, 857))
+('doomrnn', (224, 16894, 584.7, 393.93, 832.06, 106.88, 0.07796, 584.7, 832))
+('doomrnn', (225, 16973, 582.04, 399.93, 911.0, 109.62, 0.07791, 582.04, 911))
+('Eval', 225, 17049, 'improvement', -24.0234375, 'curr', 596.615234375, 'prev', 620.638671875, 'best', 620.638671875)
+('doomrnn', (226, 17126, 575.86, 368.25, 884.12, 106.59, 0.07787, 575.86, 884))
+('doomrnn', (227, 17203, 606.48, 397.37, 825.87, 111.68, 0.07784, 606.48, 825))
+('doomrnn', (228, 17280, 585.49, 371.31, 869.68, 107.37, 0.07782, 585.49, 869))
+('doomrnn', (229, 17363, 610.69, 335.06, 984.31, 111.2, 0.0778, 610.69, 984))
+('doomrnn', (230, 17446, 598.4, 394.18, 974.06, 119.52, 0.07777, 598.4, 974))
+('doomrnn', (231, 17522, 621.88, 438.75, 810.56, 90.11, 0.07774, 621.88, 810))
+('doomrnn', (232, 17599, 594.88, 357.25, 872.31, 104.13, 0.07771, 594.88, 872))
+('doomrnn', (233, 17678, 600.35, 360.0, 888.68, 117.38, 0.07769, 600.35, 888))
+('doomrnn', (234, 17757, 599.24, 377.18, 871.62, 105.87, 0.07765, 599.24, 871))
+('doomrnn', (235, 17843, 583.59, 360.18, 1080.93, 113.57, 0.0776, 583.59, 1080))
+('doomrnn', (236, 17922, 608.81, 373.31, 897.62, 109.37, 0.07756, 608.81, 897))
+('doomrnn', (237, 17997, 619.7, 382.18, 801.31, 81.87, 0.07753, 619.7, 801))
+('doomrnn', (238, 18076, 606.21, 375.62, 894.25, 100.8, 0.0775, 606.21, 894))
+('doomrnn', (239, 18150, 579.24, 337.93, 817.93, 92.61, 0.07748, 579.24, 817))
+('doomrnn', (240, 18227, 602.88, 395.12, 857.12, 108.32, 0.07746, 602.88, 857))
+('doomrnn', (241, 18308, 616.78, 341.37, 901.75, 109.19, 0.07744, 616.78, 901))
+('doomrnn', (242, 18380, 570.43, 372.31, 783.12, 103.08, 0.07742, 570.43, 783))
+('doomrnn', (243, 18459, 608.8, 298.43, 874.81, 108.38, 0.07739, 608.8, 874))
+('doomrnn', (244, 18541, 600.88, 390.5, 931.75, 121.27, 0.07737, 600.88, 931))
+('doomrnn', (245, 18628, 628.65, 415.25, 975.75, 125.02, 0.07734, 628.65, 975))
+('doomrnn', (246, 18706, 595.78, 415.62, 876.68, 107.73, 0.07731, 595.78, 876))
+('doomrnn', (247, 18780, 584.44, 354.87, 827.37, 98.82, 0.07728, 584.44, 827))
+('doomrnn', (248, 18858, 605.24, 369.5, 849.0, 104.81, 0.07726, 605.24, 849))
+('doomrnn', (249, 18937, 599.08, 389.75, 887.75, 113.74, 0.07723, 599.08, 887))
+('doomrnn', (250, 19022, 594.5, 387.56, 1030.62, 111.72, 0.07721, 594.5, 1030))
+('Eval', 250, 19104, 'improvement', 18.2158203125, 'curr', 638.8544921875, 'prev', 620.638671875, 'best', 638.8544921875)
+('doomrnn', (251, 19178, 597.38, 364.12, 800.06, 94.28, 0.07718, 597.38, 800))
+('doomrnn', (252, 19261, 628.65, 417.87, 926.87, 111.01, 0.07716, 628.65, 926))
+('doomrnn', (253, 19339, 610.03, 442.37, 842.68, 95.59, 0.07713, 610.03, 842))
+('doomrnn', (254, 19425, 612.38, 409.0, 1010.31, 125.3, 0.0771, 612.38, 1010))
+('doomrnn', (255, 19503, 608.81, 422.31, 841.56, 110.06, 0.07707, 608.81, 841))
+('doomrnn', (256, 19580, 578.88, 326.62, 872.0, 100.42, 0.07704, 578.88, 872))
+('doomrnn', (257, 19663, 591.91, 409.62, 942.18, 112.05, 0.07702, 591.91, 942))
+('doomrnn', (258, 19741, 616.52, 372.93, 867.0, 104.74, 0.07701, 616.52, 867))
+('doomrnn', (259, 19816, 587.35, 416.0, 812.06, 103.09, 0.07699, 587.35, 812))
+('doomrnn', (260, 19902, 599.72, 393.5, 1028.87, 130.32, 0.07698, 599.72, 1028))
+('doomrnn', (261, 19981, 619.14, 351.87, 860.43, 89.11, 0.07697, 619.14, 860))
+('doomrnn', (262, 20058, 596.96, 400.18, 862.12, 109.56, 0.07696, 596.96, 862))
+('doomrnn', (263, 20133, 595.35, 344.68, 803.62, 107.51, 0.07694, 595.35, 803))
+('doomrnn', (264, 20211, 582.56, 320.5, 879.37, 122.09, 0.07692, 582.56, 879))
+('doomrnn', (265, 20293, 612.6, 416.68, 923.68, 108.71, 0.07688, 612.6, 923))
+('doomrnn', (266, 20370, 618.2, 350.12, 810.68, 106.97, 0.07685, 618.2, 810))
+('doomrnn', (267, 20450, 594.84, 354.0, 928.75, 110.96, 0.07681, 594.84, 928))
+('doomrnn', (268, 20524, 580.0, 301.0, 835.12, 98.45, 0.07678, 580.0, 835))
+('doomrnn', (269, 20605, 623.4, 436.68, 885.06, 94.27, 0.07675, 623.4, 885))
+('doomrnn', (270, 20683, 602.57, 381.18, 880.81, 99.46, 0.07672, 602.57, 880))
+('doomrnn', (271, 20757, 592.79, 359.25, 788.93, 86.05, 0.07668, 592.79, 788))
+('doomrnn', (272, 20836, 590.55, 305.37, 904.12, 120.62, 0.07666, 590.55, 904))
+('doomrnn', (273, 20917, 617.62, 271.25, 890.31, 117.87, 0.07663, 617.62, 890))
+('doomrnn', (274, 20995, 612.06, 311.68, 842.37, 108.63, 0.07661, 612.06, 842))
+('doomrnn', (275, 21076, 617.38, 400.0, 909.0, 124.21, 0.0766, 617.38, 909))
+('Eval', 275, 21166, 'improvement', -12.193359375, 'curr', 626.6611328125, 'prev', 638.8544921875, 'best', 638.8544921875)
+('doomrnn', (276, 21239, 583.0, 349.31, 816.43, 89.23, 0.07659, 583.0, 816))
+('doomrnn', (277, 21322, 596.47, 308.0, 984.75, 123.87, 0.07657, 596.47, 984))
+('doomrnn', (278, 21400, 586.13, 349.18, 846.43, 118.3, 0.07655, 586.13, 846))
+('doomrnn', (279, 21475, 595.94, 350.43, 828.93, 106.34, 0.07652, 595.94, 828))
+('doomrnn', (280, 21553, 588.97, 316.06, 911.68, 116.91, 0.07649, 588.97, 911))
+('doomrnn', (281, 21630, 585.03, 376.43, 859.18, 108.56, 0.07647, 585.03, 859))
+('doomrnn', (282, 21704, 596.52, 375.31, 773.12, 103.98, 0.07644, 596.52, 773))
+('doomrnn', (283, 21782, 588.01, 384.37, 896.87, 109.07, 0.07641, 588.01, 896))
+('doomrnn', (284, 21862, 607.86, 370.75, 890.5, 110.69, 0.07637, 607.86, 890))
+('doomrnn', (285, 21937, 590.69, 311.87, 807.56, 97.48, 0.07634, 590.69, 807))
+('doomrnn', (286, 22009, 581.53, 354.62, 775.43, 100.73, 0.0763, 581.53, 775))
+('doomrnn', (287, 22089, 595.88, 350.18, 900.43, 119.36, 0.07626, 595.88, 900))
+('doomrnn', (288, 22180, 653.11, 361.25, 1089.81, 138.94, 0.07621, 653.11, 1089))
+('doomrnn', (289, 22259, 618.83, 417.56, 847.31, 105.06, 0.07617, 618.83, 847))
+('doomrnn', (290, 22335, 602.07, 413.0, 835.43, 96.89, 0.07613, 602.07, 835))
+('doomrnn', (291, 22419, 617.26, 259.0, 968.62, 130.06, 0.07608, 617.26, 968))
+('doomrnn', (292, 22497, 602.84, 346.43, 854.56, 107.06, 0.07603, 602.84, 854))
+('doomrnn', (293, 22579, 599.38, 388.31, 955.0, 108.75, 0.07598, 599.38, 955))
+('doomrnn', (294, 22660, 598.33, 279.43, 931.18, 119.32, 0.07594, 598.33, 931))
+('doomrnn', (295, 22738, 597.94, 313.37, 858.18, 109.51, 0.07589, 597.94, 858))
+('doomrnn', (296, 22818, 602.73, 420.75, 944.25, 106.01, 0.07585, 602.73, 944))
+('doomrnn', (297, 22902, 631.39, 402.68, 919.56, 115.83, 0.07581, 631.39, 919))
+('doomrnn', (298, 22984, 610.69, 390.81, 915.0, 114.12, 0.07577, 610.69, 915))
+('doomrnn', (299, 23063, 601.77, 396.06, 899.5, 109.35, 0.07575, 601.77, 899))
+('doomrnn', (300, 23137, 609.59, 443.56, 791.18, 80.92, 0.07572, 609.59, 791))
+('Eval', 300, 23219, 'improvement', 7.28125, 'curr', 646.1357421875, 'prev', 638.8544921875, 'best', 646.1357421875)
+('doomrnn', (301, 23302, 618.6, 387.31, 936.43, 114.89, 0.07569, 618.6, 936))
+('doomrnn', (302, 23376, 589.13, 391.56, 818.87, 98.32, 0.07566, 589.13, 818))
+('doomrnn', (303, 23458, 616.79, 379.87, 921.25, 132.45, 0.07564, 616.79, 921))
+('doomrnn', (304, 23540, 603.85, 344.5, 964.5, 122.37, 0.07563, 603.85, 964))
+('doomrnn', (305, 23612, 562.62, 357.25, 791.5, 91.54, 0.07561, 562.62, 791))
+('doomrnn', (306, 23692, 615.4, 373.18, 904.0, 103.61, 0.07559, 615.4, 904))
+('doomrnn', (307, 23771, 604.09, 372.81, 906.75, 97.41, 0.07557, 604.09, 906))
+('doomrnn', (308, 23847, 606.03, 419.75, 828.37, 85.03, 0.07554, 606.03, 828))
+('doomrnn', (309, 23922, 580.54, 309.93, 813.12, 115.04, 0.0755, 580.54, 813))
+('doomrnn', (310, 23998, 597.13, 386.5, 845.93, 107.29, 0.07547, 597.13, 845))
+('doomrnn', (311, 24079, 610.86, 394.62, 902.18, 112.86, 0.07543, 610.86, 902))
+('doomrnn', (312, 24157, 614.32, 412.25, 855.68, 106.02, 0.0754, 614.32, 855))
+('doomrnn', (313, 24240, 605.83, 391.12, 932.56, 109.92, 0.07536, 605.83, 932))
+('doomrnn', (314, 24322, 622.74, 417.12, 944.37, 99.17, 0.07533, 622.74, 944))
+('doomrnn', (315, 24406, 606.18, 412.68, 1020.12, 118.77, 0.0753, 606.18, 1020))
+('doomrnn', (316, 24481, 622.19, 387.43, 784.31, 91.22, 0.07526, 622.19, 784))
+('doomrnn', (317, 24563, 612.15, 409.87, 926.37, 105.21, 0.07523, 612.15, 926))
+('doomrnn', (318, 24643, 596.62, 362.31, 912.06, 113.18, 0.0752, 596.62, 912))
+('doomrnn', (319, 24720, 594.71, 332.37, 862.56, 118.16, 0.07517, 594.71, 862))
+('doomrnn', (320, 24806, 614.53, 393.06, 995.93, 130.49, 0.07515, 614.53, 995))
+('doomrnn', (321, 24884, 631.24, 394.0, 832.06, 93.69, 0.07511, 631.24, 832))
+('doomrnn', (322, 24971, 615.1, 394.87, 1044.31, 116.55, 0.07508, 615.1, 1044))
+('doomrnn', (323, 25051, 606.45, 379.18, 896.87, 104.54, 0.07502, 606.45, 896))
+('doomrnn', (324, 25126, 604.25, 351.18, 807.75, 97.61, 0.07497, 604.25, 807))
+('doomrnn', (325, 25208, 626.59, 402.31, 882.93, 107.82, 0.07492, 626.59, 882))
+('Eval', 325, 25286, 'improvement', -19.8994140625, 'curr', 626.236328125, 'prev', 646.1357421875, 'best', 646.1357421875)
+('doomrnn', (326, 25366, 616.61, 383.31, 865.43, 104.63, 0.07486, 616.61, 865))
+('doomrnn', (327, 25441, 624.2, 382.31, 792.18, 103.92, 0.07481, 624.2, 792))
+('doomrnn', (328, 25521, 606.65, 415.31, 909.43, 106.48, 0.07476, 606.65, 909))
+('doomrnn', (329, 25601, 612.58, 407.62, 896.68, 103.04, 0.0747, 612.58, 896))
+('doomrnn', (330, 25683, 608.57, 392.0, 955.62, 123.79, 0.07465, 608.57, 955))
+('doomrnn', (331, 25761, 604.77, 341.62, 864.0, 109.62, 0.0746, 604.77, 864))
+('doomrnn', (332, 25840, 597.14, 322.68, 902.12, 116.62, 0.07455, 597.14, 902))
+('doomrnn', (333, 25928, 598.53, 387.68, 1075.87, 121.18, 0.07451, 598.53, 1075))
+('doomrnn', (334, 26006, 609.44, 445.0, 860.37, 91.5, 0.07446, 609.44, 860))
+('doomrnn', (335, 26093, 610.5, 387.31, 1031.37, 130.53, 0.07442, 610.5, 1031))
+('doomrnn', (336, 26172, 628.55, 404.68, 850.0, 116.3, 0.07438, 628.55, 850))
+('doomrnn', (337, 26252, 606.13, 392.37, 890.93, 105.4, 0.07435, 606.13, 890))
+('doomrnn', (338, 26334, 606.51, 394.56, 945.68, 112.86, 0.07432, 606.51, 945))
+('doomrnn', (339, 26417, 590.82, 375.62, 985.56, 120.76, 0.07428, 590.82, 985))
+('doomrnn', (340, 26498, 619.24, 427.31, 898.81, 113.57, 0.07424, 619.24, 898))
+('doomrnn', (341, 26583, 630.88, 382.0, 961.25, 112.2, 0.07422, 630.88, 961))
+('doomrnn', (342, 26663, 631.62, 388.12, 868.0, 113.22, 0.07419, 631.62, 868))
+('doomrnn', (343, 26742, 607.88, 432.43, 882.31, 106.59, 0.07416, 607.88, 882))
+('doomrnn', (344, 26820, 606.36, 393.93, 879.75, 101.47, 0.07413, 606.36, 879))
+('doomrnn', (345, 26905, 627.06, 412.93, 952.56, 116.81, 0.0741, 627.06, 952))
+('doomrnn', (346, 26980, 589.34, 412.43, 830.37, 91.82, 0.07408, 589.34, 830))
+('doomrnn', (347, 27060, 603.56, 424.75, 920.06, 114.03, 0.07406, 603.56, 920))
+('doomrnn', (348, 27143, 617.58, 384.93, 968.37, 106.64, 0.07406, 617.58, 968))
+('doomrnn', (349, 27222, 595.82, 340.68, 889.0, 103.72, 0.07406, 595.82, 889))
+('doomrnn', (350, 27307, 605.17, 347.5, 1020.75, 122.9, 0.07407, 605.17, 1020))
+('Eval', 350, 27382, 'improvement', -32.875, 'curr', 613.2607421875, 'prev', 646.1357421875, 'best', 646.1357421875)
+('doomrnn', (351, 27456, 597.01, 361.5, 795.31, 98.66, 0.07408, 597.01, 795))
+('doomrnn', (352, 27537, 613.26, 383.5, 906.5, 104.76, 0.0741, 613.26, 906))
+('doomrnn', (353, 27620, 639.7, 334.31, 891.75, 116.42, 0.07413, 639.7, 891))
+('doomrnn', (354, 27705, 620.88, 452.0, 1022.56, 110.38, 0.07416, 620.88, 1022))
+('doomrnn', (355, 27791, 633.17, 408.87, 960.81, 121.21, 0.07418, 633.17, 960))
+('doomrnn', (356, 27872, 615.58, 341.62, 930.0, 110.45, 0.07421, 615.58, 930))
+('doomrnn', (357, 27948, 594.92, 360.68, 822.12, 93.44, 0.07424, 594.92, 822))
+('doomrnn', (358, 28028, 595.67, 399.81, 928.75, 104.47, 0.07427, 595.67, 928))
+('doomrnn', (359, 28103, 596.59, 281.06, 825.93, 105.13, 0.07428, 596.59, 825))
+('doomrnn', (360, 28182, 617.79, 413.25, 848.0, 97.51, 0.0743, 617.79, 848))
+('doomrnn', (361, 28260, 598.25, 403.62, 875.87, 93.24, 0.07433, 598.25, 875))
+('doomrnn', (362, 28336, 619.16, 381.62, 830.43, 101.74, 0.07436, 619.16, 830))
+('doomrnn', (363, 28417, 604.35, 366.93, 909.93, 113.09, 0.07439, 604.35, 909))
+('doomrnn', (364, 28495, 606.1, 332.5, 863.12, 116.77, 0.07443, 606.1, 863))
+('doomrnn', (365, 28576, 602.58, 393.5, 894.06, 124.15, 0.07447, 602.58, 894))
+('doomrnn', (366, 28658, 616.79, 399.31, 938.12, 115.69, 0.0745, 616.79, 938))
+('doomrnn', (367, 28737, 618.2, 440.68, 907.12, 89.64, 0.07452, 618.2, 907))
+('doomrnn', (368, 28822, 610.69, 368.06, 1008.12, 116.47, 0.07455, 610.69, 1008))
+('doomrnn', (369, 28899, 597.71, 409.93, 837.75, 100.79, 0.07458, 597.71, 837))
+('doomrnn', (370, 28979, 596.92, 401.93, 916.37, 113.99, 0.07461, 596.92, 916))
+('doomrnn', (371, 29057, 611.65, 453.18, 873.25, 86.33, 0.07464, 611.65, 873))
+('doomrnn', (372, 29134, 611.93, 317.12, 845.81, 99.48, 0.07468, 611.93, 845))
+('doomrnn', (373, 29214, 631.65, 397.12, 855.93, 109.85, 0.0747, 631.65, 855))
+('doomrnn', (374, 29291, 613.59, 365.06, 834.56, 109.0, 0.07471, 613.59, 834))
+('doomrnn', (375, 29368, 606.43, 375.56, 843.43, 97.6, 0.07472, 606.43, 843))
+('Eval', 375, 29452, 'improvement', 3.33203125, 'curr', 649.4677734375, 'prev', 646.1357421875, 'best', 649.4677734375)
+('doomrnn', (376, 29529, 604.51, 363.31, 853.68, 105.1, 0.07471, 604.51, 853))
+('doomrnn', (377, 29613, 608.04, 391.68, 985.25, 109.77, 0.0747, 608.04, 985))
+('doomrnn', (378, 29698, 650.55, 435.93, 930.68, 121.94, 0.07468, 650.55, 930))
+('doomrnn', (379, 29776, 608.4, 403.56, 867.06, 92.01, 0.07467, 608.4, 867))
+('doomrnn', (380, 29855, 601.45, 403.43, 894.18, 96.58, 0.07465, 601.45, 894))
+('doomrnn', (381, 29940, 644.68, 422.37, 954.62, 117.76, 0.07463, 644.68, 954))
+('doomrnn', (382, 30022, 635.4, 424.5, 926.18, 104.58, 0.0746, 635.4, 926))
+('doomrnn', (383, 30101, 613.44, 358.37, 862.43, 117.59, 0.07456, 613.44, 862))
+('doomrnn', (384, 30180, 614.72, 425.75, 891.0, 95.74, 0.07454, 614.72, 891))
+('doomrnn', (385, 30260, 621.08, 401.25, 872.12, 107.31, 0.0745, 621.08, 872))
+('doomrnn', (386, 30338, 619.93, 414.12, 846.43, 92.96, 0.07446, 619.93, 846))
+('doomrnn', (387, 30420, 640.84, 468.06, 910.0, 96.84, 0.07442, 640.84, 910))
+('doomrnn', (388, 30504, 611.48, 367.81, 988.62, 132.2, 0.0744, 611.48, 988))
+('doomrnn', (389, 30586, 624.29, 431.93, 939.37, 98.03, 0.07436, 624.29, 939))
+('doomrnn', (390, 30669, 634.54, 438.06, 943.0, 118.64, 0.07433, 634.54, 943))
+('doomrnn', (391, 30749, 630.28, 388.56, 873.06, 111.41, 0.07429, 630.28, 873))
+('doomrnn', (392, 30833, 644.74, 400.75, 929.68, 120.25, 0.07423, 644.74, 929))
+('doomrnn', (393, 30917, 603.29, 400.43, 1002.37, 111.3, 0.07418, 603.29, 1002))
+('doomrnn', (394, 31003, 649.98, 429.37, 981.87, 117.49, 0.07412, 649.98, 981))
+('doomrnn', (395, 31083, 619.7, 358.43, 882.81, 122.72, 0.07408, 619.7, 882))
+('doomrnn', (396, 31162, 619.06, 411.56, 865.43, 101.08, 0.07405, 619.06, 865))
+('doomrnn', (397, 31244, 628.42, 386.12, 925.18, 126.34, 0.07402, 628.42, 925))
+('doomrnn', (398, 31325, 661.87, 497.37, 862.18, 91.0, 0.074, 661.87, 862))
+('doomrnn', (399, 31408, 626.18, 379.68, 921.18, 119.95, 0.07399, 626.18, 921))
+('doomrnn', (400, 31486, 622.47, 355.12, 858.93, 112.28, 0.07398, 622.47, 858))
+('Eval', 400, 31571, 'improvement', 3.8154296875, 'curr', 653.283203125, 'prev', 649.4677734375, 'best', 653.283203125)
+('doomrnn', (401, 31653, 636.26, 452.62, 887.56, 103.83, 0.07396, 636.26, 887))
+('doomrnn', (402, 31735, 629.51, 459.37, 964.06, 96.11, 0.07395, 629.51, 964))
+('doomrnn', (403, 31819, 644.69, 479.75, 969.56, 96.45, 0.07393, 644.69, 969))
+('doomrnn', (404, 31899, 625.78, 397.25, 865.37, 107.35, 0.07392, 625.78, 865))
+('doomrnn', (405, 31978, 624.25, 389.25, 836.75, 103.39, 0.0739, 624.25, 836))
+('doomrnn', (406, 32059, 610.12, 411.81, 940.87, 109.52, 0.07387, 610.12, 940))
+('doomrnn', (407, 32133, 601.42, 413.62, 798.37, 96.66, 0.07385, 601.42, 798))
+('doomrnn', (408, 32213, 596.26, 390.81, 913.87, 100.97, 0.07382, 596.26, 913))
+('doomrnn', (409, 32295, 624.18, 426.56, 913.12, 110.67, 0.07379, 624.18, 913))
+('doomrnn', (410, 32371, 583.0, 349.06, 842.43, 102.3, 0.07376, 583.0, 842))
+('doomrnn', (411, 32459, 618.83, 341.06, 1050.25, 133.96, 0.07372, 618.83, 1050))
+('doomrnn', (412, 32539, 630.39, 367.87, 886.06, 106.81, 0.07369, 630.39, 886))
+('doomrnn', (413, 32622, 644.58, 430.12, 911.0, 121.85, 0.07366, 644.58, 911))
+('doomrnn', (414, 32707, 640.7, 374.43, 943.25, 132.76, 0.07363, 640.7, 943))
+('doomrnn', (415, 32787, 633.95, 394.37, 872.0, 104.93, 0.07361, 633.95, 872))
+('doomrnn', (416, 32869, 620.89, 388.75, 930.68, 117.51, 0.0736, 620.89, 930))
+('doomrnn', (417, 32955, 635.09, 318.43, 969.5, 139.79, 0.07358, 635.09, 969))
+('doomrnn', (418, 33042, 661.32, 391.18, 959.5, 123.58, 0.07359, 661.32, 959))
+('doomrnn', (419, 33126, 617.87, 442.81, 999.93, 107.54, 0.07359, 617.87, 999))
+('doomrnn', (420, 33211, 638.13, 390.81, 971.56, 129.6, 0.07358, 638.13, 971))
+('doomrnn', (421, 33294, 624.65, 357.31, 920.12, 107.02, 0.07358, 624.65, 920))
+('doomrnn', (422, 33373, 612.65, 375.43, 895.06, 103.39, 0.07357, 612.65, 895))
+('doomrnn', (423, 33451, 632.28, 382.25, 833.75, 96.91, 0.07355, 632.28, 833))
+('doomrnn', (424, 33528, 615.04, 335.0, 851.75, 105.63, 0.07354, 615.04, 851))
+('doomrnn', (425, 33611, 639.97, 426.0, 918.37, 119.23, 0.07354, 639.97, 918))
+('Eval', 425, 33697, 'improvement', 21.7431640625, 'curr', 675.0263671875, 'prev', 653.283203125, 'best', 675.0263671875)
+('doomrnn', (426, 33775, 623.96, 429.62, 862.87, 96.3, 0.07353, 623.96, 862))
+('doomrnn', (427, 33856, 634.92, 469.68, 901.81, 94.34, 0.07353, 634.92, 901))
+('doomrnn', (428, 33934, 612.3, 388.81, 846.81, 97.43, 0.07352, 612.3, 846))
+('doomrnn', (429, 34015, 632.27, 382.0, 873.31, 117.17, 0.07352, 632.27, 873))
+('doomrnn', (430, 34096, 613.43, 397.37, 931.56, 109.61, 0.07352, 613.43, 931))
+('doomrnn', (431, 34188, 646.51, 384.12, 1099.56, 128.82, 0.07353, 646.51, 1099))
+('doomrnn', (432, 34273, 634.55, 427.93, 969.5, 107.68, 0.07354, 634.55, 969))
+('doomrnn', (433, 34356, 638.58, 360.25, 909.93, 113.42, 0.07355, 638.58, 909))
+('doomrnn', (434, 34439, 625.48, 411.25, 950.68, 112.73, 0.07355, 625.48, 950))
+('doomrnn', (435, 34516, 607.92, 399.87, 823.43, 108.21, 0.07355, 607.92, 823))
+('doomrnn', (436, 34602, 633.56, 359.0, 991.25, 115.76, 0.07355, 633.56, 991))
+('doomrnn', (437, 34686, 636.12, 413.87, 943.18, 115.41, 0.07355, 636.12, 943))
+('doomrnn', (438, 34766, 634.38, 375.37, 891.5, 101.21, 0.07354, 634.38, 891))
+('doomrnn', (439, 34845, 606.66, 370.62, 865.0, 118.1, 0.07353, 606.66, 865))
+('doomrnn', (440, 34929, 637.93, 421.0, 978.06, 110.85, 0.07351, 637.93, 978))
+('doomrnn', (441, 35007, 613.42, 410.93, 836.56, 96.95, 0.0735, 613.42, 836))
+('doomrnn', (442, 35087, 625.01, 447.87, 864.31, 108.96, 0.0735, 625.01, 864))
+('doomrnn', (443, 35166, 615.71, 438.31, 864.56, 99.47, 0.07349, 615.71, 864))
+('doomrnn', (444, 35245, 614.93, 417.75, 877.25, 110.61, 0.07348, 614.93, 877))
+('doomrnn', (445, 35327, 628.0, 366.5, 895.43, 109.38, 0.07347, 628.0, 895))
+('doomrnn', (446, 35406, 621.85, 409.37, 850.0, 94.26, 0.07346, 621.85, 850))
+('doomrnn', (447, 35491, 629.25, 328.0, 971.25, 117.81, 0.07346, 629.25, 971))
+('doomrnn', (448, 35570, 643.74, 439.56, 857.37, 100.82, 0.07346, 643.74, 857))
+('doomrnn', (449, 35650, 606.7, 412.62, 904.12, 107.9, 0.07347, 606.7, 904))
+('doomrnn', (450, 35722, 596.72, 337.06, 785.43, 89.77, 0.07346, 596.72, 785))
+('Eval', 450, 35807, 'improvement', -13.1943359375, 'curr', 661.83203125, 'prev', 675.0263671875, 'best', 675.0263671875)
+('doomrnn', (451, 35889, 631.48, 301.31, 902.37, 117.47, 0.07345, 631.48, 902))
+('doomrnn', (452, 35973, 633.28, 297.31, 979.06, 123.58, 0.07343, 633.28, 979))
+('doomrnn', (453, 36059, 631.78, 371.0, 988.93, 119.34, 0.07342, 631.78, 988))
+('doomrnn', (454, 36137, 613.38, 377.62, 851.87, 104.87, 0.0734, 613.38, 851))
+('doomrnn', (455, 36219, 617.33, 418.06, 931.87, 109.94, 0.07339, 617.33, 931))
+('doomrnn', (456, 36301, 637.96, 428.18, 914.56, 108.55, 0.07337, 637.96, 914))
+('doomrnn', (457, 36378, 617.39, 349.75, 816.37, 108.71, 0.07335, 617.39, 816))
+('doomrnn', (458, 36460, 641.79, 441.68, 903.75, 108.65, 0.07333, 641.79, 903))
+('doomrnn', (459, 36539, 610.76, 400.25, 871.06, 104.88, 0.07331, 610.76, 871))
+('doomrnn', (460, 36626, 616.72, 407.37, 1058.75, 122.18, 0.07328, 616.72, 1058))
+('doomrnn', (461, 36709, 606.27, 431.31, 941.06, 111.75, 0.07325, 606.27, 941))
+('doomrnn', (462, 36788, 612.59, 373.87, 901.68, 101.7, 0.07321, 612.59, 901))
+('doomrnn', (463, 36876, 645.33, 368.31, 1035.93, 118.87, 0.07318, 645.33, 1035))
+('doomrnn', (464, 36960, 616.67, 434.62, 985.43, 105.23, 0.07314, 616.67, 985))
+('doomrnn', (465, 37037, 636.48, 433.87, 822.18, 83.15, 0.07309, 636.48, 822))
+('doomrnn', (466, 37116, 599.07, 366.62, 898.25, 113.54, 0.07305, 599.07, 898))
+('doomrnn', (467, 37199, 654.74, 356.37, 914.43, 102.63, 0.073, 654.74, 914))
+('doomrnn', (468, 37277, 615.1, 402.5, 848.06, 115.41, 0.07295, 615.1, 848))
+('doomrnn', (469, 37362, 630.18, 365.06, 987.18, 116.7, 0.07291, 630.18, 987))
+('doomrnn', (470, 37439, 616.44, 377.93, 825.37, 102.61, 0.07286, 616.44, 825))
+('doomrnn', (471, 37515, 630.16, 420.68, 817.0, 81.98, 0.07281, 630.16, 817))
+('doomrnn', (472, 37596, 635.58, 352.06, 897.87, 112.89, 0.07277, 635.58, 897))
+('doomrnn', (473, 37678, 639.79, 441.18, 888.31, 109.99, 0.07272, 639.79, 888))
+('doomrnn', (474, 37764, 647.62, 465.68, 974.62, 113.21, 0.07269, 647.62, 974))
+('doomrnn', (475, 37848, 606.54, 406.68, 1000.75, 118.25, 0.07264, 606.54, 1000))
+('Eval', 475, 37929, 'improvement', -47.4091796875, 'curr', 627.6171875, 'prev', 675.0263671875, 'best', 675.0263671875)
+('doomrnn', (476, 38005, 623.63, 388.43, 837.81, 97.64, 0.07261, 623.63, 837))
+('doomrnn', (477, 38087, 621.26, 397.5, 912.25, 109.06, 0.07257, 621.26, 912))
+('doomrnn', (478, 38167, 614.54, 379.87, 910.93, 118.74, 0.07255, 614.54, 910))
+('doomrnn', (479, 38251, 634.81, 399.81, 935.62, 121.42, 0.07253, 634.81, 935))
+('doomrnn', (480, 38330, 615.79, 315.68, 888.43, 103.66, 0.07251, 615.79, 888))
+('doomrnn', (481, 38412, 623.55, 439.31, 938.75, 101.96, 0.07249, 623.55, 938))
+('doomrnn', (482, 38489, 612.78, 449.5, 859.12, 79.44, 0.07247, 612.78, 859))
+('doomrnn', (483, 38568, 626.3, 414.87, 863.81, 100.75, 0.07244, 626.3, 863))
+('doomrnn', (484, 38653, 651.08, 413.0, 945.06, 128.36, 0.07241, 651.08, 945))
+('doomrnn', (485, 38737, 628.96, 390.68, 931.62, 110.31, 0.07239, 628.96, 931))
+('doomrnn', (486, 38818, 631.03, 393.93, 882.43, 113.04, 0.07237, 631.03, 882))
+('doomrnn', (487, 38907, 644.39, 412.68, 1023.56, 122.7, 0.07235, 644.39, 1023))
+('doomrnn', (488, 38987, 637.17, 426.5, 877.68, 105.4, 0.07233, 637.17, 877))
+('doomrnn', (489, 39064, 599.72, 367.56, 841.93, 105.82, 0.07231, 599.72, 841))
+('doomrnn', (490, 39150, 627.42, 343.81, 1021.81, 119.63, 0.0723, 627.42, 1021))
+('doomrnn', (491, 39234, 641.48, 415.56, 929.18, 120.42, 0.0723, 641.48, 929))
+('doomrnn', (492, 39315, 633.11, 429.06, 886.75, 101.22, 0.07228, 633.11, 886))
+('doomrnn', (493, 39398, 625.36, 395.62, 919.87, 112.51, 0.07226, 625.36, 919))
+('doomrnn', (494, 39477, 611.81, 416.43, 889.68, 105.3, 0.07224, 611.81, 889))
+('doomrnn', (495, 39564, 650.89, 286.62, 1002.37, 117.56, 0.07222, 650.89, 1002))
+('doomrnn', (496, 39643, 585.13, 360.31, 898.43, 118.07, 0.07221, 585.13, 898))
+('doomrnn', (497, 39719, 599.54, 322.25, 827.75, 89.45, 0.07219, 599.54, 827))
+('doomrnn', (498, 39801, 625.57, 445.12, 897.43, 95.8, 0.07217, 625.57, 897))
+('doomrnn', (499, 39884, 632.52, 386.37, 944.18, 119.82, 0.07214, 632.52, 944))
+('doomrnn', (500, 39972, 644.9, 432.18, 1015.06, 115.81, 0.07211, 644.9, 1015))
+('Eval', 500, 40059, 'improvement', 1.5693359375, 'curr', 676.595703125, 'prev', 675.0263671875, 'best', 676.595703125)
+('doomrnn', (501, 40145, 634.54, 443.81, 958.87, 123.22, 0.07208, 634.54, 958))
+('doomrnn', (502, 40221, 624.08, 405.43, 818.37, 100.9, 0.07205, 624.08, 818))
+('doomrnn', (503, 40305, 630.72, 325.68, 923.68, 141.5, 0.07202, 630.72, 923))
+('doomrnn', (504, 40390, 634.28, 445.5, 966.18, 119.51, 0.072, 634.28, 966))
+('doomrnn', (505, 40474, 632.73, 401.56, 933.87, 118.58, 0.07198, 632.73, 933))
+('doomrnn', (506, 40559, 640.25, 378.0, 964.25, 129.06, 0.07195, 640.25, 964))
+('doomrnn', (507, 40639, 630.24, 373.81, 889.75, 103.02, 0.07192, 630.24, 889))
+('doomrnn', (508, 40720, 628.67, 381.43, 927.25, 109.54, 0.0719, 628.67, 927))
+('doomrnn', (509, 40804, 615.67, 331.75, 937.62, 124.2, 0.07189, 615.67, 937))
+('doomrnn', (510, 40886, 638.86, 372.87, 903.5, 109.64, 0.07187, 638.86, 903))
+('doomrnn', (511, 40964, 629.85, 355.75, 853.31, 113.65, 0.07185, 629.85, 853))
+('doomrnn', (512, 41044, 626.4, 427.5, 863.18, 110.13, 0.07183, 626.4, 863))
+('doomrnn', (513, 41133, 643.24, 420.18, 1063.81, 111.59, 0.07181, 643.24, 1063))
+('doomrnn', (514, 41215, 631.14, 422.18, 896.31, 103.11, 0.07179, 631.14, 896))
+('doomrnn', (515, 41294, 620.6, 430.5, 875.81, 108.55, 0.07175, 620.6, 875))
+('doomrnn', (516, 41377, 623.97, 437.75, 918.25, 111.79, 0.07173, 623.97, 918))
+('doomrnn', (517, 41461, 633.51, 367.62, 934.43, 119.79, 0.07171, 633.51, 934))
+('doomrnn', (518, 41541, 616.49, 330.5, 897.93, 123.94, 0.0717, 616.49, 897))
+('doomrnn', (519, 41622, 623.06, 444.18, 889.87, 115.51, 0.07168, 623.06, 889))
+('doomrnn', (520, 41707, 639.38, 436.62, 959.62, 115.77, 0.07166, 639.38, 959))
+('doomrnn', (521, 41786, 636.25, 395.06, 864.62, 104.79, 0.07163, 636.25, 864))
+('doomrnn', (522, 41870, 644.12, 376.75, 908.0, 127.4, 0.0716, 644.12, 908))
+('doomrnn', (523, 41955, 631.71, 405.93, 989.25, 123.34, 0.07156, 631.71, 989))
+('doomrnn', (524, 42031, 621.45, 437.18, 805.87, 91.89, 0.07153, 621.45, 805))
+('doomrnn', (525, 42105, 591.61, 386.37, 787.56, 92.47, 0.0715, 591.61, 787))
+('Eval', 525, 42187, 'improvement', -15.72265625, 'curr', 660.873046875, 'prev', 676.595703125, 'best', 676.595703125)
+('doomrnn', (526, 42269, 638.45, 360.87, 881.62, 123.8, 0.07148, 638.45, 881))
+('doomrnn', (527, 42354, 636.1, 340.37, 964.5, 127.56, 0.07146, 636.1, 964))
+('doomrnn', (528, 42440, 629.01, 417.5, 1010.93, 116.25, 0.07144, 629.01, 1010))
+('doomrnn', (529, 42522, 622.01, 417.12, 909.37, 113.62, 0.07141, 622.01, 909))
+('doomrnn', (530, 42607, 658.16, 439.68, 954.43, 111.49, 0.07138, 658.16, 954))
+('doomrnn', (531, 42689, 629.9, 377.31, 911.68, 114.27, 0.07135, 629.9, 911))
+('doomrnn', (532, 42776, 647.36, 397.06, 1013.31, 121.02, 0.07132, 647.36, 1013))
+('doomrnn', (533, 42861, 644.57, 433.37, 924.12, 118.96, 0.07128, 644.57, 924))
+('doomrnn', (534, 42944, 623.12, 428.25, 927.5, 115.86, 0.07123, 623.12, 927))
+('doomrnn', (535, 43024, 625.09, 386.31, 879.37, 103.5, 0.07118, 625.09, 879))
+('doomrnn', (536, 43113, 660.78, 436.31, 1034.68, 116.39, 0.07113, 660.78, 1034))
+('doomrnn', (537, 43196, 640.64, 440.68, 917.87, 101.86, 0.07108, 640.64, 917))
+('doomrnn', (538, 43282, 622.9, 403.68, 1010.75, 119.45, 0.07104, 622.9, 1010))
+('doomrnn', (539, 43368, 645.24, 420.68, 973.81, 117.21, 0.07101, 645.24, 973))
+('doomrnn', (540, 43448, 619.8, 376.0, 886.81, 115.4, 0.07097, 619.8, 886))
+('doomrnn', (541, 43533, 638.84, 421.62, 951.37, 112.38, 0.07092, 638.84, 951))
+('doomrnn', (542, 43615, 628.57, 369.62, 887.37, 121.5, 0.07087, 628.57, 887))
+('doomrnn', (543, 43696, 645.59, 409.0, 868.25, 114.45, 0.07082, 645.59, 868))
+('doomrnn', (544, 43774, 618.14, 445.75, 857.31, 99.39, 0.07079, 618.14, 857))
+('doomrnn', (545, 43858, 613.59, 417.81, 980.56, 103.94, 0.07076, 613.59, 980))
+('doomrnn', (546, 43944, 632.92, 370.06, 998.12, 130.22, 0.07074, 632.92, 998))
+('doomrnn', (547, 44023, 640.78, 421.62, 832.06, 99.36, 0.07073, 640.78, 832))
+('doomrnn', (548, 44105, 643.72, 407.25, 907.75, 97.82, 0.07072, 643.72, 907))
+('doomrnn', (549, 44190, 631.18, 395.43, 952.87, 111.9, 0.07072, 631.18, 952))
+('doomrnn', (550, 44276, 625.28, 380.5, 1006.25, 122.98, 0.07073, 625.28, 1006))
+('Eval', 550, 44364, 'improvement', 0.9345703125, 'curr', 677.5302734375, 'prev', 676.595703125, 'best', 677.5302734375)
+('doomrnn', (551, 44443, 621.54, 346.56, 868.25, 116.64, 0.07072, 621.54, 868))
+('doomrnn', (552, 44521, 630.89, 432.43, 840.75, 92.41, 0.07069, 630.89, 840))
+('doomrnn', (553, 44600, 637.37, 428.75, 868.68, 94.26, 0.07065, 637.37, 868))
+('doomrnn', (554, 44680, 634.93, 331.56, 864.68, 119.56, 0.07061, 634.93, 864))
+('doomrnn', (555, 44766, 658.3, 329.25, 955.12, 118.96, 0.07055, 658.3, 955))
+('doomrnn', (556, 44848, 625.79, 361.31, 931.06, 118.82, 0.07049, 625.79, 931))
+('doomrnn', (557, 44924, 619.24, 385.93, 804.06, 86.34, 0.07044, 619.24, 804))
+('doomrnn', (558, 45009, 637.85, 424.18, 960.56, 110.88, 0.07038, 637.85, 960))
+('doomrnn', (559, 45083, 627.0, 423.56, 781.12, 85.71, 0.07033, 627.0, 781))
+('doomrnn', (560, 45161, 634.35, 444.75, 825.75, 96.22, 0.07029, 634.35, 825))
+('doomrnn', (561, 45243, 649.93, 437.06, 870.56, 105.81, 0.07025, 649.93, 870))
+('doomrnn', (562, 45319, 600.59, 431.87, 828.0, 93.7, 0.07022, 600.59, 828))
+('doomrnn', (563, 45401, 650.32, 433.75, 894.56, 111.57, 0.07019, 650.32, 894))
+('doomrnn', (564, 45485, 633.93, 398.68, 959.06, 117.19, 0.07017, 633.93, 959))
+('doomrnn', (565, 45575, 661.02, 402.06, 1011.81, 125.16, 0.07014, 661.02, 1011))
+('doomrnn', (566, 45660, 635.99, 407.93, 962.31, 119.86, 0.07011, 635.99, 962))
+('doomrnn', (567, 45739, 644.48, 419.5, 854.25, 108.59, 0.07009, 644.48, 854))
+('doomrnn', (568, 45824, 627.2, 443.75, 989.43, 110.35, 0.07008, 627.2, 989))
+('doomrnn', (569, 45911, 663.56, 432.81, 956.25, 119.17, 0.07007, 663.56, 956))
+('doomrnn', (570, 45990, 644.39, 421.5, 845.12, 96.95, 0.07007, 644.39, 845))
+('doomrnn', (571, 46080, 667.74, 487.5, 1043.25, 99.84, 0.07007, 667.74, 1043))
+('doomrnn', (572, 46172, 659.6, 448.75, 1085.43, 138.5, 0.07006, 659.6, 1085))
+('doomrnn', (573, 46254, 642.08, 393.81, 866.68, 108.33, 0.07007, 642.08, 866))
+('doomrnn', (574, 46338, 654.68, 438.0, 925.43, 116.82, 0.07007, 654.68, 925))
+('doomrnn', (575, 46419, 660.22, 438.56, 856.5, 95.7, 0.07007, 660.22, 856))
+('Eval', 575, 46507, 'improvement', -22.955078125, 'curr', 654.5751953125, 'prev', 677.5302734375, 'best', 677.5302734375)
+('doomrnn', (576, 46588, 650.14, 474.68, 869.18, 99.82, 0.07008, 650.14, 869))
+('doomrnn', (577, 46667, 621.74, 405.93, 861.81, 93.77, 0.07008, 621.74, 861))
+('doomrnn', (578, 46751, 629.78, 378.75, 959.37, 121.38, 0.07008, 629.78, 959))
+('doomrnn', (579, 46831, 627.72, 422.75, 865.31, 101.96, 0.07008, 627.72, 865))
+('doomrnn', (580, 46914, 624.92, 460.0, 937.0, 115.05, 0.07007, 624.92, 937))
+('doomrnn', (581, 46999, 651.37, 393.18, 927.87, 110.39, 0.07006, 651.37, 927))
+('doomrnn', (582, 47082, 647.19, 350.31, 931.37, 125.28, 0.07006, 647.19, 931))
+('doomrnn', (583, 47166, 653.41, 394.75, 911.68, 121.74, 0.07006, 653.41, 911))
+('doomrnn', (584, 47253, 649.18, 462.18, 1011.43, 105.07, 0.07007, 649.18, 1011))
+('doomrnn', (585, 47338, 647.93, 393.43, 946.93, 116.59, 0.07007, 647.93, 946))
+('doomrnn', (586, 47427, 664.8, 350.62, 1049.25, 138.59, 0.07007, 664.8, 1049))
+('doomrnn', (587, 47515, 664.23, 458.18, 1009.12, 132.03, 0.0701, 664.23, 1009))
+('doomrnn', (588, 47594, 612.41, 385.87, 883.12, 98.81, 0.07012, 612.41, 883))
+('doomrnn', (589, 47676, 614.98, 403.62, 906.31, 109.74, 0.07014, 614.98, 906))
+('doomrnn', (590, 47761, 649.44, 445.87, 965.68, 107.1, 0.07015, 649.44, 965))
+('doomrnn', (591, 47847, 634.62, 407.81, 1048.12, 104.88, 0.07016, 634.62, 1048))
+('doomrnn', (592, 47931, 646.33, 398.0, 962.75, 110.44, 0.07018, 646.33, 962))
+('doomrnn', (593, 48018, 633.74, 440.68, 1024.18, 100.6, 0.07018, 633.74, 1024))
+('doomrnn', (594, 48100, 663.03, 422.81, 905.5, 102.75, 0.07017, 663.03, 905))
+('doomrnn', (595, 48186, 639.68, 377.37, 982.87, 110.45, 0.07016, 639.68, 982))
+('doomrnn', (596, 48270, 632.21, 457.93, 971.75, 102.93, 0.07015, 632.21, 971))
+('doomrnn', (597, 48354, 641.18, 401.56, 965.81, 101.7, 0.07015, 641.18, 965))
+('doomrnn', (598, 48442, 675.31, 423.18, 952.93, 124.72, 0.07016, 675.31, 952))
+('doomrnn', (599, 48526, 639.02, 368.56, 964.25, 103.06, 0.07017, 639.02, 964))
+('doomrnn', (600, 48610, 636.77, 352.62, 944.62, 126.59, 0.07017, 636.77, 944))
+('Eval', 600, 48693, 'improvement', -7.744140625, 'curr', 669.7861328125, 'prev', 677.5302734375, 'best', 677.5302734375)
+('doomrnn', (601, 48776, 649.82, 381.5, 912.87, 114.96, 0.07016, 649.82, 912))
+('doomrnn', (602, 48860, 635.65, 453.68, 931.25, 111.18, 0.07016, 635.65, 931))
+('doomrnn', (603, 48940, 624.74, 393.93, 888.93, 105.62, 0.07017, 624.74, 888))
+('doomrnn', (604, 49023, 643.0, 352.0, 908.5, 115.0, 0.07018, 643.0, 908))
+('doomrnn', (605, 49106, 654.67, 317.25, 898.31, 108.62, 0.07018, 654.67, 898))
+('doomrnn', (606, 49190, 657.83, 429.5, 908.5, 104.04, 0.07019, 657.83, 908))
+('doomrnn', (607, 49274, 642.68, 403.43, 960.37, 101.44, 0.0702, 642.68, 960))
+('doomrnn', (608, 49353, 616.55, 379.0, 872.12, 105.79, 0.07021, 616.55, 872))
+('doomrnn', (609, 49442, 623.46, 367.25, 1080.37, 126.04, 0.07021, 623.46, 1080))
+('doomrnn', (610, 49528, 642.23, 437.25, 983.81, 114.68, 0.07022, 642.23, 983))
+('doomrnn', (611, 49611, 637.79, 480.0, 941.37, 98.77, 0.07022, 637.79, 941))
+('doomrnn', (612, 49692, 658.12, 459.06, 898.62, 94.88, 0.07021, 658.12, 898))
+('doomrnn', (613, 49777, 624.09, 331.81, 964.68, 116.92, 0.0702, 624.09, 964))
+('doomrnn', (614, 49858, 645.52, 398.25, 885.87, 122.21, 0.07018, 645.52, 885))
+('doomrnn', (615, 49942, 650.55, 404.12, 934.37, 119.08, 0.07017, 650.55, 934))
+('doomrnn', (616, 50027, 649.37, 434.18, 950.25, 114.07, 0.07015, 649.37, 950))
+('doomrnn', (617, 50107, 636.04, 398.93, 852.75, 104.89, 0.07013, 636.04, 852))
+('doomrnn', (618, 50193, 654.63, 363.75, 938.0, 125.84, 0.07011, 654.63, 938))
+('doomrnn', (619, 50280, 636.51, 478.5, 1037.68, 110.79, 0.07009, 636.51, 1037))
+('doomrnn', (620, 50364, 655.58, 420.12, 934.93, 108.99, 0.07007, 655.58, 934))
+('doomrnn', (621, 50458, 640.41, 347.06, 1110.06, 134.74, 0.07004, 640.41, 1110))
+('doomrnn', (622, 50539, 617.88, 389.81, 909.81, 117.86, 0.07001, 617.88, 909))
+('doomrnn', (623, 50619, 624.54, 419.06, 907.68, 102.45, 0.06998, 624.54, 907))
+('doomrnn', (624, 50708, 676.59, 356.93, 1017.75, 121.05, 0.06995, 676.59, 1017))
+('doomrnn', (625, 50791, 646.08, 461.12, 930.25, 103.86, 0.0699, 646.08, 930))
+('Eval', 625, 50876, 'improvement', -14.0966796875, 'curr', 663.43359375, 'prev', 677.5302734375, 'best', 677.5302734375)
+('doomrnn', (626, 50957, 624.53, 462.56, 874.25, 116.81, 0.06986, 624.53, 874))
+('doomrnn', (627, 51041, 653.51, 427.68, 945.25, 105.02, 0.06981, 653.51, 945))
+('doomrnn', (628, 51126, 647.07, 339.81, 936.56, 121.29, 0.06976, 647.07, 936))
+('doomrnn', (629, 51213, 649.6, 387.31, 954.25, 126.92, 0.0697, 649.6, 954))
+('doomrnn', (630, 51295, 636.97, 360.0, 908.37, 124.5, 0.06964, 636.97, 908))
+('doomrnn', (631, 51378, 665.15, 405.12, 923.68, 105.29, 0.0696, 665.15, 923))
+('doomrnn', (632, 51466, 647.81, 422.62, 1020.87, 121.39, 0.06956, 647.81, 1020))
+('doomrnn', (633, 51551, 659.92, 393.12, 919.62, 108.03, 0.06952, 659.92, 919))
+('doomrnn', (634, 51637, 631.96, 428.81, 991.5, 116.96, 0.06948, 631.96, 991))
+('doomrnn', (635, 51720, 628.06, 355.93, 922.5, 116.99, 0.06944, 628.06, 922))
+('doomrnn', (636, 51801, 643.84, 418.0, 864.5, 116.62, 0.06939, 643.84, 864))
+('doomrnn', (637, 51887, 655.29, 395.37, 966.5, 119.07, 0.06934, 655.29, 966))
+('doomrnn', (638, 51969, 647.92, 375.06, 901.31, 110.7, 0.06929, 647.92, 901))
+('doomrnn', (639, 52054, 665.34, 398.06, 927.31, 132.78, 0.06925, 665.34, 927))
+('doomrnn', (640, 52135, 647.36, 426.06, 868.62, 115.85, 0.0692, 647.36, 868))
+('doomrnn', (641, 52224, 644.68, 371.62, 1036.06, 118.63, 0.06916, 644.68, 1036))
+('doomrnn', (642, 52309, 644.22, 445.75, 970.43, 122.82, 0.06912, 644.22, 970))
+('doomrnn', (643, 52395, 640.39, 360.68, 975.06, 132.45, 0.06908, 640.39, 975))
+('doomrnn', (644, 52477, 622.91, 361.87, 930.81, 118.14, 0.06905, 622.91, 930))
+('doomrnn', (645, 52557, 631.11, 370.12, 863.43, 111.22, 0.06901, 631.11, 863))
+('doomrnn', (646, 52636, 638.74, 373.18, 857.93, 101.86, 0.06897, 638.74, 857))
+('doomrnn', (647, 52716, 624.43, 402.62, 894.93, 107.62, 0.06893, 624.43, 894))
+('doomrnn', (648, 52809, 635.73, 404.81, 1141.43, 135.88, 0.0689, 635.73, 1141))
+('doomrnn', (649, 52895, 642.69, 380.43, 981.87, 124.72, 0.06887, 642.69, 981))
+('doomrnn', (650, 52978, 634.84, 423.68, 928.06, 118.05, 0.06884, 634.84, 928))
+('Eval', 650, 53068, 'improvement', -5.5458984375, 'curr', 671.984375, 'prev', 677.5302734375, 'best', 677.5302734375)
+('doomrnn', (651, 53148, 644.5, 348.62, 876.93, 108.47, 0.06882, 644.5, 876))
+('doomrnn', (652, 53229, 608.06, 336.75, 926.25, 124.42, 0.0688, 608.06, 926))
+('doomrnn', (653, 53309, 624.3, 444.87, 890.5, 90.67, 0.06877, 624.3, 890))
+('doomrnn', (654, 53389, 613.33, 364.81, 875.5, 112.22, 0.06875, 613.33, 875))
+('doomrnn', (655, 53470, 633.6, 435.87, 900.0, 103.39, 0.06873, 633.6, 900))
+('doomrnn', (656, 53553, 634.94, 397.93, 922.25, 115.88, 0.06872, 634.94, 922))
+('doomrnn', (657, 53642, 650.11, 463.25, 1052.93, 102.61, 0.06869, 650.11, 1052))
+('doomrnn', (658, 53729, 650.44, 411.06, 990.31, 120.83, 0.06868, 650.44, 990))
+('doomrnn', (659, 53809, 620.43, 421.06, 887.62, 117.95, 0.06866, 620.43, 887))
+('doomrnn', (660, 53889, 627.91, 391.81, 892.93, 111.31, 0.06865, 627.91, 892))
+('doomrnn', (661, 53971, 645.43, 401.25, 860.56, 106.38, 0.06863, 645.43, 860))
+('doomrnn', (662, 54063, 627.45, 299.68, 1156.81, 141.99, 0.06861, 627.45, 1156))
+('doomrnn', (663, 54145, 635.64, 385.31, 903.25, 114.68, 0.0686, 635.64, 903))
+('doomrnn', (664, 54230, 634.63, 431.43, 975.5, 99.92, 0.06858, 634.63, 975))
+('doomrnn', (665, 54311, 647.1, 395.87, 877.75, 89.12, 0.06856, 647.1, 877))
+('doomrnn', (666, 54391, 620.16, 348.93, 885.81, 113.79, 0.06855, 620.16, 885))
+('doomrnn', (667, 54472, 641.09, 386.5, 877.43, 110.76, 0.06853, 641.09, 877))
+('doomrnn', (668, 54555, 655.0, 417.93, 887.5, 108.77, 0.06851, 655.0, 887))
+('doomrnn', (669, 54643, 668.65, 450.68, 1011.12, 114.7, 0.06848, 668.65, 1011))
+('doomrnn', (670, 54726, 652.89, 431.93, 917.18, 101.09, 0.06846, 652.89, 917))
+('doomrnn', (671, 54817, 627.97, 367.18, 1135.37, 125.23, 0.06843, 627.97, 1135))
+('doomrnn', (672, 54900, 627.81, 384.06, 934.75, 121.84, 0.0684, 627.81, 934))
+('doomrnn', (673, 54983, 646.25, 457.06, 895.43, 116.71, 0.06838, 646.25, 895))
+('doomrnn', (674, 55067, 665.19, 453.18, 932.43, 105.59, 0.06834, 665.19, 932))
+('doomrnn', (675, 55154, 655.42, 406.62, 986.56, 125.07, 0.06831, 655.42, 986))
+('Eval', 675, 55241, 'improvement', -17.8935546875, 'curr', 659.63671875, 'prev', 677.5302734375, 'best', 677.5302734375)
+('doomrnn', (676, 55326, 662.49, 427.25, 918.5, 114.32, 0.06829, 662.49, 918))
+('doomrnn', (677, 55407, 649.97, 416.43, 855.12, 110.27, 0.06828, 649.97, 855))
+('doomrnn', (678, 55490, 632.55, 437.43, 957.75, 111.0, 0.06826, 632.55, 957))
+('doomrnn', (679, 55576, 654.31, 318.0, 954.37, 140.99, 0.06823, 654.31, 954))
+('doomrnn', (680, 55656, 622.98, 428.93, 892.75, 103.43, 0.06821, 622.98, 892))
+('doomrnn', (681, 55745, 644.97, 367.87, 1003.18, 123.06, 0.06819, 644.97, 1003))
+('doomrnn', (682, 55831, 639.49, 401.06, 971.93, 118.52, 0.06818, 639.49, 971))
+('doomrnn', (683, 55916, 654.65, 414.87, 949.5, 120.62, 0.06819, 654.65, 949))
+('doomrnn', (684, 56001, 652.33, 352.56, 961.06, 118.81, 0.06819, 652.33, 961))
+('doomrnn', (685, 56085, 664.14, 378.93, 924.25, 113.85, 0.06819, 664.14, 924))
+('doomrnn', (686, 56166, 649.68, 410.18, 886.5, 113.7, 0.06818, 649.68, 886))
+('doomrnn', (687, 56258, 661.11, 409.25, 1042.68, 119.63, 0.06816, 661.11, 1042))
+('doomrnn', (688, 56340, 630.65, 380.06, 932.5, 116.49, 0.06814, 630.65, 932))
+('doomrnn', (689, 56427, 654.33, 368.18, 949.93, 123.94, 0.06812, 654.33, 949))
+('doomrnn', (690, 56509, 653.47, 449.31, 873.25, 102.51, 0.06809, 653.47, 873))
+('doomrnn', (691, 56591, 646.1, 382.43, 881.81, 115.87, 0.06805, 646.1, 881))
+('doomrnn', (692, 56678, 658.66, 401.0, 997.31, 111.41, 0.06802, 658.66, 997))
+('doomrnn', (693, 56765, 637.24, 401.43, 961.43, 122.31, 0.06799, 637.24, 961))
+('doomrnn', (694, 56846, 644.07, 397.25, 900.43, 115.89, 0.06796, 644.07, 900))
+('doomrnn', (695, 56931, 655.74, 480.12, 950.75, 99.46, 0.06794, 655.74, 950))
+('doomrnn', (696, 57012, 652.19, 450.93, 872.12, 92.51, 0.06793, 652.19, 872))
+('doomrnn', (697, 57099, 656.37, 446.93, 973.31, 121.14, 0.06792, 656.37, 973))
+('doomrnn', (698, 57187, 673.58, 456.87, 981.06, 115.22, 0.06792, 673.58, 981))
+('doomrnn', (699, 57269, 648.15, 370.75, 920.43, 113.42, 0.06792, 648.15, 920))
+('doomrnn', (700, 57362, 665.33, 427.43, 1118.18, 110.73, 0.06792, 665.33, 1118))
+('Eval', 700, 57448, 'improvement', -10.15625, 'curr', 667.3740234375, 'prev', 677.5302734375, 'best', 677.5302734375)
+('doomrnn', (701, 57535, 651.85, 315.18, 968.37, 121.63, 0.06792, 651.85, 968))
+('doomrnn', (702, 57617, 654.6, 439.87, 897.68, 102.45, 0.0679, 654.6, 897))
+('doomrnn', (703, 57700, 635.82, 381.75, 921.68, 112.74, 0.06789, 635.82, 921))
+('doomrnn', (704, 57785, 634.8, 384.68, 980.37, 122.08, 0.06789, 634.8, 980))
+('doomrnn', (705, 57870, 659.03, 418.43, 927.75, 111.71, 0.0679, 659.03, 927))
+('doomrnn', (706, 57955, 662.13, 350.43, 953.43, 97.14, 0.06789, 662.13, 953))
+('doomrnn', (707, 58042, 657.35, 428.06, 957.43, 122.71, 0.06788, 657.35, 957))
+('doomrnn', (708, 58132, 656.79, 446.25, 1058.25, 134.02, 0.06787, 656.79, 1058))
+('doomrnn', (709, 58217, 660.23, 456.81, 942.25, 103.08, 0.06786, 660.23, 942))
+('doomrnn', (710, 58302, 685.2, 385.37, 928.68, 113.58, 0.06784, 685.2, 928))
+('doomrnn', (711, 58389, 661.4, 468.75, 1006.81, 115.52, 0.06783, 661.4, 1006))
+('doomrnn', (712, 58474, 655.27, 432.87, 967.68, 110.6, 0.06782, 655.27, 967))
+('doomrnn', (713, 58561, 653.46, 428.68, 966.43, 119.07, 0.06781, 653.46, 966))
+('doomrnn', (714, 58644, 681.28, 461.93, 863.31, 101.75, 0.06779, 681.28, 863))
+('doomrnn', (715, 58722, 598.78, 377.81, 876.0, 113.28, 0.06778, 598.78, 876))
+('doomrnn', (716, 58813, 654.66, 445.75, 1096.56, 125.43, 0.06778, 654.66, 1096))
+('doomrnn', (717, 58904, 667.01, 361.31, 1073.56, 113.78, 0.06778, 667.01, 1073))
+('doomrnn', (718, 58989, 649.18, 468.31, 908.37, 121.88, 0.06778, 649.18, 908))
+('doomrnn', (719, 59072, 647.7, 386.93, 943.0, 123.72, 0.06778, 647.7, 943))
+('doomrnn', (720, 59155, 660.82, 464.93, 897.87, 103.32, 0.06777, 660.82, 897))
+('doomrnn', (721, 59247, 632.2, 423.18, 1136.31, 133.03, 0.06776, 632.2, 1136))
+('doomrnn', (722, 59329, 648.03, 437.93, 879.18, 106.62, 0.06775, 648.03, 879))
+('doomrnn', (723, 59410, 648.84, 424.87, 886.43, 107.61, 0.06775, 648.84, 886))
+('doomrnn', (724, 59498, 665.13, 421.12, 986.37, 126.25, 0.06777, 665.13, 986))
+('doomrnn', (725, 59582, 656.09, 425.25, 918.06, 107.77, 0.06777, 656.09, 918))
+('Eval', 725, 59676, 'improvement', -15.5205078125, 'curr', 662.009765625, 'prev', 677.5302734375, 'best', 677.5302734375)
+('doomrnn', (726, 59764, 662.26, 449.12, 1030.25, 101.38, 0.06779, 662.26, 1030))
+('doomrnn', (727, 59852, 652.33, 481.06, 1010.31, 109.4, 0.06781, 652.33, 1010))
+('doomrnn', (728, 59938, 648.97, 411.25, 974.25, 118.89, 0.06784, 648.97, 974))
+('doomrnn', (729, 60024, 663.23, 460.75, 972.81, 109.32, 0.06787, 663.23, 972))
+('doomrnn', (730, 60111, 672.48, 307.81, 969.93, 119.11, 0.0679, 672.48, 969))
+('doomrnn', (731, 60195, 655.08, 490.68, 912.5, 92.45, 0.06793, 655.08, 912))
+('doomrnn', (732, 60285, 651.91, 402.5, 1016.68, 128.21, 0.06796, 651.91, 1016))
+('doomrnn', (733, 60373, 672.08, 408.81, 1008.68, 123.4, 0.068, 672.08, 1008))
+('doomrnn', (734, 60460, 668.05, 452.06, 999.56, 116.26, 0.06803, 668.05, 999))
+('doomrnn', (735, 60543, 648.53, 452.37, 922.81, 95.77, 0.06805, 648.53, 922))
+('doomrnn', (736, 60630, 663.81, 379.37, 1001.68, 135.37, 0.06808, 663.81, 1001))
+('doomrnn', (737, 60718, 663.37, 397.75, 973.93, 121.21, 0.06812, 663.37, 973))
+('doomrnn', (738, 60803, 665.02, 445.5, 943.93, 101.99, 0.06814, 665.02, 943))
+('doomrnn', (739, 60885, 635.43, 404.93, 907.25, 118.77, 0.06818, 635.43, 907))
+('doomrnn', (740, 60965, 641.72, 401.68, 865.56, 101.12, 0.06821, 641.72, 865))
+('doomrnn', (741, 61051, 653.08, 461.93, 971.37, 101.9, 0.06825, 653.08, 971))
+('doomrnn', (742, 61131, 630.24, 384.37, 871.0, 109.23, 0.06828, 630.24, 871))
+('doomrnn', (743, 61216, 667.42, 390.81, 949.12, 101.36, 0.06832, 667.42, 949))
+('doomrnn', (744, 61302, 655.66, 419.43, 985.12, 120.64, 0.06835, 655.66, 985))
+('doomrnn', (745, 61393, 651.93, 486.43, 1043.25, 114.88, 0.0684, 651.93, 1043))
+('doomrnn', (746, 61475, 636.22, 294.81, 886.87, 123.98, 0.06845, 636.22, 886))
+('doomrnn', (747, 61561, 667.59, 491.06, 974.68, 115.68, 0.0685, 667.59, 974))
+('doomrnn', (748, 61645, 653.39, 421.56, 916.18, 106.84, 0.06854, 653.39, 916))
+('doomrnn', (749, 61731, 665.17, 462.31, 955.25, 109.67, 0.06858, 665.17, 955))
+('doomrnn', (750, 61818, 658.91, 410.31, 957.37, 121.08, 0.06861, 658.91, 957))
+('Eval', 750, 61906, 'improvement', -17.8681640625, 'curr', 659.662109375, 'prev', 677.5302734375, 'best', 677.5302734375)
+('doomrnn', (751, 61988, 636.78, 420.68, 918.87, 101.46, 0.06862, 636.78, 918))
+('doomrnn', (752, 62078, 669.2, 397.31, 1077.18, 120.62, 0.06865, 669.2, 1077))
+('doomrnn', (753, 62165, 666.33, 409.18, 965.68, 117.27, 0.06868, 666.33, 965))
+('doomrnn', (754, 62246, 644.97, 409.68, 893.68, 110.41, 0.06871, 644.97, 893))
+('doomrnn', (755, 62327, 648.67, 396.62, 872.68, 100.47, 0.06874, 648.67, 872))
+('doomrnn', (756, 62410, 659.91, 405.75, 926.18, 103.07, 0.06878, 659.91, 926))
+('doomrnn', (757, 62504, 647.11, 396.68, 1150.62, 120.73, 0.06882, 647.11, 1150))
+('doomrnn', (758, 62589, 636.38, 410.81, 990.81, 103.47, 0.06886, 636.38, 990))
+('doomrnn', (759, 62671, 651.21, 386.18, 871.25, 110.71, 0.06889, 651.21, 871))
+('doomrnn', (760, 62755, 642.63, 403.31, 970.93, 107.15, 0.06891, 642.63, 970))
+('doomrnn', (761, 62841, 626.84, 368.43, 970.31, 127.01, 0.06893, 626.84, 970))
+('doomrnn', (762, 62930, 651.71, 315.06, 1042.12, 125.94, 0.06896, 651.71, 1042))
+('doomrnn', (763, 63013, 653.2, 437.18, 936.37, 99.52, 0.069, 653.2, 936))
+('doomrnn', (764, 63105, 641.59, 430.0, 1124.87, 118.51, 0.06904, 641.59, 1124))
+('doomrnn', (765, 63187, 647.93, 414.87, 866.43, 111.61, 0.06908, 647.93, 866))
+('doomrnn', (766, 63274, 649.81, 419.25, 1022.5, 122.0, 0.06911, 649.81, 1022))
+('doomrnn', (767, 63354, 650.15, 326.93, 855.87, 108.65, 0.06913, 650.15, 855))
+('doomrnn', (768, 63439, 679.25, 361.75, 935.5, 120.31, 0.06916, 679.25, 935))
+('doomrnn', (769, 63523, 633.35, 407.12, 916.43, 108.69, 0.06919, 633.35, 916))
+('doomrnn', (770, 63604, 624.36, 427.0, 918.87, 115.43, 0.06922, 624.36, 918))
+('doomrnn', (771, 63688, 657.11, 373.25, 904.0, 117.64, 0.06926, 657.11, 904))
+('doomrnn', (772, 63768, 653.01, 426.43, 855.62, 101.1, 0.06929, 653.01, 855))
+('doomrnn', (773, 63854, 632.45, 426.37, 947.93, 127.54, 0.06933, 632.45, 947))
+('doomrnn', (774, 63936, 664.12, 445.25, 880.68, 95.91, 0.06937, 664.12, 880))
+('doomrnn', (775, 64020, 630.16, 318.5, 928.68, 119.91, 0.0694, 630.16, 928))
+('Eval', 775, 64111, 'improvement', -5.5126953125, 'curr', 672.017578125, 'prev', 677.5302734375, 'best', 677.5302734375)
+('doomrnn', (776, 64204, 673.57, 335.06, 1072.25, 139.45, 0.06943, 673.57, 1072))
+('doomrnn', (777, 64290, 652.23, 428.43, 975.18, 112.58, 0.06946, 652.23, 975))
+('doomrnn', (778, 64368, 627.55, 355.18, 827.75, 105.52, 0.06948, 627.55, 827))
+('doomrnn', (779, 64453, 662.33, 407.06, 947.62, 120.43, 0.0695, 662.33, 947))
+('doomrnn', (780, 64534, 635.88, 482.68, 891.62, 96.5, 0.06952, 635.88, 891))
+('doomrnn', (781, 64624, 661.43, 383.81, 1011.68, 121.58, 0.06954, 661.43, 1011))
+('doomrnn', (782, 64709, 668.81, 416.06, 946.68, 122.74, 0.06956, 668.81, 946))
+('doomrnn', (783, 64790, 657.99, 370.37, 866.5, 112.26, 0.06958, 657.99, 866))
+('doomrnn', (784, 64879, 671.94, 445.81, 1030.75, 114.12, 0.06961, 671.94, 1030))
+('doomrnn', (785, 64964, 663.59, 502.12, 911.25, 101.9, 0.06965, 663.59, 911))
+('doomrnn', (786, 65047, 660.27, 434.37, 933.06, 101.42, 0.06969, 660.27, 933))
+('doomrnn', (787, 65136, 673.37, 473.93, 997.93, 119.24, 0.06971, 673.37, 997))
+('doomrnn', (788, 65217, 656.36, 487.87, 867.5, 102.25, 0.06974, 656.36, 867))
+('doomrnn', (789, 65304, 654.16, 335.25, 942.37, 127.4, 0.06976, 654.16, 942))
+('doomrnn', (790, 65391, 637.89, 338.37, 1043.75, 119.96, 0.06978, 637.89, 1043))
+('doomrnn', (791, 65469, 650.28, 405.5, 834.18, 94.96, 0.06978, 650.28, 834))
+('doomrnn', (792, 65559, 653.19, 415.37, 1047.06, 115.87, 0.06977, 653.19, 1047))
+('doomrnn', (793, 65644, 635.54, 401.56, 982.25, 112.7, 0.06976, 635.54, 982))
+('doomrnn', (794, 65736, 685.13, 435.75, 1042.75, 111.19, 0.06976, 685.13, 1042))
+('doomrnn', (795, 65818, 648.84, 374.31, 906.31, 102.23, 0.06975, 648.84, 906))
+('doomrnn', (796, 65898, 636.98, 370.81, 874.25, 110.68, 0.06973, 636.98, 874))
+('doomrnn', (797, 65986, 627.46, 372.56, 1044.06, 111.81, 0.0697, 627.46, 1044))
+('doomrnn', (798, 66070, 645.77, 455.5, 926.06, 107.82, 0.06968, 645.77, 926))
+('doomrnn', (799, 66153, 653.84, 409.0, 907.75, 104.48, 0.06965, 653.84, 907))
+('doomrnn', (800, 66233, 616.98, 367.87, 877.5, 99.59, 0.06962, 616.98, 877))
+('Eval', 800, 66314, 'improvement', -5.220703125, 'curr', 672.3095703125, 'prev', 677.5302734375, 'best', 677.5302734375)
+('doomrnn', (801, 66403, 633.7, 415.18, 1033.75, 124.0, 0.06959, 633.7, 1033))
+('doomrnn', (802, 66486, 648.72, 435.0, 901.25, 107.96, 0.06956, 648.72, 901))
+('doomrnn', (803, 66575, 654.59, 474.56, 1041.87, 103.64, 0.06954, 654.59, 1041))
+('doomrnn', (804, 66662, 658.3, 427.37, 1001.87, 109.43, 0.06951, 658.3, 1001))
+('doomrnn', (805, 66753, 653.52, 379.5, 1041.87, 141.08, 0.06949, 653.52, 1041))
+('doomrnn', (806, 66842, 666.49, 386.93, 987.0, 121.35, 0.06946, 666.49, 987))
+('doomrnn', (807, 66927, 634.66, 377.75, 1003.56, 120.43, 0.06943, 634.66, 1003))
+('doomrnn', (808, 67010, 645.51, 427.0, 922.06, 120.34, 0.0694, 645.51, 922))
+('doomrnn', (809, 67088, 620.27, 443.81, 833.31, 90.93, 0.06935, 620.27, 833))
+('doomrnn', (810, 67170, 631.1, 402.87, 939.25, 105.38, 0.06931, 631.1, 939))
+('doomrnn', (811, 67246, 617.95, 473.93, 808.18, 77.68, 0.06927, 617.95, 808))
+('doomrnn', (812, 67327, 634.51, 407.68, 917.68, 111.94, 0.06922, 634.51, 917))
+('doomrnn', (813, 67412, 635.6, 415.12, 980.62, 106.22, 0.06918, 635.6, 980))
+('doomrnn', (814, 67490, 624.18, 408.5, 845.5, 101.07, 0.06914, 624.18, 845))
+('doomrnn', (815, 67578, 660.49, 443.81, 992.5, 122.83, 0.0691, 660.49, 992))
+('doomrnn', (816, 67661, 635.45, 468.12, 954.37, 90.77, 0.06906, 635.45, 954))
+('doomrnn', (817, 67741, 623.46, 401.37, 889.75, 109.87, 0.06904, 623.46, 889))
+('doomrnn', (818, 67828, 657.58, 422.5, 1007.5, 107.89, 0.06901, 657.58, 1007))
+('doomrnn', (819, 67909, 629.22, 421.62, 899.43, 110.79, 0.06898, 629.22, 899))
+('doomrnn', (820, 67994, 646.67, 330.5, 945.75, 116.75, 0.06895, 646.67, 945))
+('doomrnn', (821, 68080, 634.9, 446.81, 956.37, 112.63, 0.06891, 634.9, 956))
+('doomrnn', (822, 68162, 625.67, 409.31, 909.93, 121.11, 0.06887, 625.67, 909))
+('doomrnn', (823, 68243, 646.47, 432.25, 879.68, 110.27, 0.06883, 646.47, 879))
+('doomrnn', (824, 68327, 657.03, 426.93, 900.18, 109.85, 0.0688, 657.03, 900))
+('doomrnn', (825, 68416, 663.31, 389.75, 1023.75, 111.79, 0.06876, 663.31, 1023))
+('Eval', 825, 68499, 'improvement', -39.1591796875, 'curr', 638.37109375, 'prev', 677.5302734375, 'best', 677.5302734375)
+('doomrnn', (826, 68588, 671.06, 444.25, 1021.56, 124.23, 0.06872, 671.06, 1021))
+('doomrnn', (827, 68677, 649.75, 325.5, 1054.18, 120.63, 0.06869, 649.75, 1054))
+('doomrnn', (828, 68761, 649.21, 461.18, 943.12, 105.77, 0.06866, 649.21, 943))
+('doomrnn', (829, 68848, 668.24, 441.5, 964.0, 117.72, 0.06863, 668.24, 964))
+('doomrnn', (830, 68926, 635.79, 452.31, 853.75, 95.83, 0.06858, 635.79, 853))
+('doomrnn', (831, 69008, 631.52, 380.18, 897.68, 118.86, 0.06854, 631.52, 897))
+('doomrnn', (832, 69099, 664.28, 409.75, 1074.25, 132.49, 0.0685, 664.28, 1074))
+('doomrnn', (833, 69192, 657.24, 418.06, 1098.43, 133.22, 0.06846, 657.24, 1098))
+('doomrnn', (834, 69278, 668.45, 450.37, 956.81, 102.76, 0.06842, 668.45, 956))
+('doomrnn', (835, 69366, 674.18, 473.37, 1016.06, 119.42, 0.06838, 674.18, 1016))
+('doomrnn', (836, 69458, 679.43, 443.12, 1065.56, 120.9, 0.06834, 679.43, 1065))
+('doomrnn', (837, 69539, 642.23, 374.81, 874.43, 113.07, 0.06828, 642.23, 874))
+('doomrnn', (838, 69627, 655.99, 458.5, 1019.31, 112.71, 0.06822, 655.99, 1019))
+('doomrnn', (839, 69704, 633.6, 373.87, 824.18, 86.7, 0.06817, 633.6, 824))
+('doomrnn', (840, 69790, 661.22, 457.93, 950.87, 108.41, 0.06813, 661.22, 950))
+('doomrnn', (841, 69879, 669.25, 419.81, 981.06, 124.04, 0.06809, 669.25, 981))
+('doomrnn', (842, 69965, 676.5, 440.93, 926.31, 106.8, 0.06807, 676.5, 926))
+('doomrnn', (843, 70052, 662.57, 390.68, 979.75, 132.01, 0.06805, 662.57, 979))
+('doomrnn', (844, 70134, 673.67, 382.0, 878.25, 106.51, 0.06802, 673.67, 878))
+('doomrnn', (845, 70222, 656.52, 370.06, 964.68, 122.96, 0.06799, 656.52, 964))
+('doomrnn', (846, 70314, 671.05, 457.25, 1076.75, 134.58, 0.06796, 671.05, 1076))
+('doomrnn', (847, 70402, 661.59, 433.12, 1016.5, 112.06, 0.06793, 661.59, 1016))
+('doomrnn', (848, 70492, 673.06, 418.18, 1028.93, 125.18, 0.0679, 673.06, 1028))
+('doomrnn', (849, 70578, 648.12, 365.87, 964.5, 128.41, 0.0679, 648.12, 964))
+('doomrnn', (850, 70659, 657.54, 438.93, 877.37, 111.83, 0.06789, 657.54, 877))
+('Eval', 850, 70744, 'improvement', -7.9619140625, 'curr', 669.568359375, 'prev', 677.5302734375, 'best', 677.5302734375)
+('doomrnn', (851, 70834, 672.74, 456.62, 1018.12, 127.64, 0.06787, 672.74, 1018))
+('doomrnn', (852, 70921, 664.11, 422.68, 959.12, 117.02, 0.06785, 664.11, 959))
+('doomrnn', (853, 71005, 621.77, 429.5, 966.31, 108.38, 0.06783, 621.77, 966))
+('doomrnn', (854, 71089, 657.86, 410.31, 948.37, 123.05, 0.06782, 657.86, 948))
+('doomrnn', (855, 71179, 657.29, 456.31, 1059.06, 116.53, 0.06781, 657.29, 1059))
+('doomrnn', (856, 71266, 695.15, 434.68, 932.43, 118.92, 0.06781, 695.15, 932))
+('doomrnn', (857, 71350, 666.59, 475.37, 916.43, 105.0, 0.06781, 666.59, 916))
+('doomrnn', (858, 71443, 686.75, 438.5, 1070.06, 140.24, 0.06781, 686.75, 1070))
+('doomrnn', (859, 71525, 642.59, 350.25, 898.18, 110.4, 0.0678, 642.59, 898))
+('doomrnn', (860, 71613, 665.58, 420.25, 982.93, 130.01, 0.0678, 665.58, 982))
+('doomrnn', (861, 71697, 641.84, 394.93, 923.62, 121.57, 0.06779, 641.84, 923))
+('doomrnn', (862, 71782, 645.8, 400.56, 974.12, 105.25, 0.06778, 645.8, 974))
+('doomrnn', (863, 71880, 688.58, 441.37, 1202.56, 124.68, 0.06776, 688.58, 1202))
+('doomrnn', (864, 71963, 643.6, 443.68, 922.75, 94.51, 0.06774, 643.6, 922))
+('doomrnn', (865, 72052, 633.55, 343.18, 1058.43, 127.97, 0.06772, 633.55, 1058))
+('doomrnn', (866, 72139, 668.16, 409.37, 958.87, 123.05, 0.06772, 668.16, 958))
+('doomrnn', (867, 72226, 664.7, 390.56, 1001.87, 107.75, 0.0677, 664.7, 1001))
+('doomrnn', (868, 72307, 632.85, 389.43, 909.18, 103.56, 0.0677, 632.85, 909))
+('doomrnn', (869, 72400, 684.49, 374.62, 1087.5, 132.29, 0.0677, 684.49, 1087))
+('doomrnn', (870, 72483, 656.68, 468.12, 909.87, 99.24, 0.0677, 656.68, 909))
+('doomrnn', (871, 72569, 658.91, 395.12, 963.18, 111.52, 0.0677, 658.91, 963))
+('doomrnn', (872, 72656, 664.81, 391.37, 971.62, 127.56, 0.0677, 664.81, 971))
+('doomrnn', (873, 72741, 645.74, 411.31, 935.0, 114.23, 0.06771, 645.74, 935))
+('doomrnn', (874, 72824, 660.75, 454.06, 918.25, 114.01, 0.06772, 660.75, 918))
+('doomrnn', (875, 72907, 647.7, 462.43, 926.25, 101.21, 0.06773, 647.7, 926))
+('Eval', 875, 72996, 'improvement', 1.3359375, 'curr', 678.8662109375, 'prev', 677.5302734375, 'best', 678.8662109375)
+('doomrnn', (876, 73080, 659.03, 390.81, 933.81, 118.08, 0.06774, 659.03, 933))
+('doomrnn', (877, 73166, 683.96, 493.81, 924.12, 106.07, 0.06775, 683.96, 924))
+('doomrnn', (878, 73251, 685.08, 422.12, 926.37, 113.48, 0.06775, 685.08, 926))
+('doomrnn', (879, 73340, 665.4, 415.81, 974.68, 128.09, 0.06774, 665.4, 974))
+('doomrnn', (880, 73427, 671.4, 423.56, 980.43, 112.11, 0.06772, 671.4, 980))
+('doomrnn', (881, 73520, 695.12, 383.12, 1058.68, 128.33, 0.06771, 695.12, 1058))
+('doomrnn', (882, 73608, 676.32, 431.06, 976.18, 112.76, 0.06769, 676.32, 976))
+('doomrnn', (883, 73701, 662.99, 353.56, 1081.31, 145.06, 0.06767, 662.99, 1081))
+('doomrnn', (884, 73790, 668.1, 444.31, 1014.93, 114.02, 0.06764, 668.1, 1014))
+('doomrnn', (885, 73882, 685.12, 364.37, 1057.68, 119.39, 0.06761, 685.12, 1057))
+('doomrnn', (886, 73969, 660.78, 437.62, 981.56, 138.58, 0.06758, 660.78, 981))
+('doomrnn', (887, 74057, 662.76, 374.62, 1028.5, 112.28, 0.06754, 662.76, 1028))
+('doomrnn', (888, 74141, 646.05, 440.81, 939.5, 108.43, 0.06751, 646.05, 939))
+('doomrnn', (889, 74232, 706.71, 387.43, 1007.18, 111.45, 0.06747, 706.71, 1007))
+('doomrnn', (890, 74320, 666.31, 416.87, 1043.37, 104.47, 0.06742, 666.31, 1043))
+('doomrnn', (891, 74410, 660.19, 385.93, 1049.12, 125.98, 0.06737, 660.19, 1049))
+('doomrnn', (892, 74496, 697.94, 437.0, 932.31, 112.81, 0.06732, 697.94, 932))
+('doomrnn', (893, 74580, 653.92, 439.5, 890.0, 116.7, 0.06727, 653.92, 890))
+('doomrnn', (894, 74664, 660.25, 390.68, 923.93, 121.35, 0.06721, 660.25, 923))
+('doomrnn', (895, 74749, 648.51, 331.75, 951.93, 107.39, 0.06715, 648.51, 951))
+('doomrnn', (896, 74834, 658.3, 316.81, 925.31, 128.25, 0.06708, 658.3, 925))
+('doomrnn', (897, 74919, 676.48, 445.0, 902.12, 101.14, 0.06702, 676.48, 902))
+('doomrnn', (898, 75004, 698.63, 429.06, 903.0, 115.77, 0.06695, 698.63, 903))
+('doomrnn', (899, 75088, 658.09, 375.87, 921.18, 117.17, 0.06688, 658.09, 921))
+('doomrnn', (900, 75173, 670.62, 378.12, 940.06, 119.98, 0.06681, 670.62, 940))
+('Eval', 900, 75261, 'improvement', 25.771484375, 'curr', 704.6376953125, 'prev', 678.8662109375, 'best', 704.6376953125)
+('doomrnn', (901, 75342, 640.88, 380.81, 886.56, 104.13, 0.06675, 640.88, 886))
+('doomrnn', (902, 75427, 661.51, 402.62, 929.5, 117.58, 0.06667, 661.51, 929))
+('doomrnn', (903, 75512, 646.23, 370.93, 948.87, 120.27, 0.06661, 646.23, 948))
+('doomrnn', (904, 75599, 689.11, 358.93, 975.37, 112.48, 0.06655, 689.11, 975))
+('doomrnn', (905, 75688, 674.15, 375.81, 984.87, 133.12, 0.06649, 674.15, 984))
+('doomrnn', (906, 75780, 691.34, 422.06, 1042.12, 132.8, 0.06643, 691.34, 1042))
+('doomrnn', (907, 75872, 670.29, 353.12, 1073.0, 134.47, 0.06637, 670.29, 1073))
+('doomrnn', (908, 75954, 650.38, 393.93, 876.18, 112.36, 0.0663, 650.38, 876))
+('doomrnn', (909, 76042, 688.68, 389.5, 981.62, 121.99, 0.06624, 688.68, 981))
+('doomrnn', (910, 76126, 640.31, 371.87, 912.0, 121.29, 0.06617, 640.31, 912))
+('doomrnn', (911, 76216, 665.79, 432.75, 1084.18, 106.83, 0.06612, 665.79, 1084))
+('doomrnn', (912, 76299, 648.29, 366.06, 897.37, 113.21, 0.06606, 648.29, 897))
+('doomrnn', (913, 76385, 669.26, 431.43, 959.43, 117.74, 0.066, 669.26, 959))
+('doomrnn', (914, 76469, 655.32, 335.12, 951.62, 115.38, 0.06593, 655.32, 951))
+('doomrnn', (915, 76561, 657.04, 344.0, 1107.62, 135.74, 0.06586, 657.04, 1107))
+('doomrnn', (916, 76646, 669.2, 404.62, 919.81, 117.33, 0.06578, 669.2, 919))
+('doomrnn', (917, 76734, 697.95, 451.37, 929.56, 107.16, 0.06571, 697.95, 929))
+('doomrnn', (918, 76820, 660.02, 414.31, 986.68, 116.8, 0.06565, 660.02, 986))
+('doomrnn', (919, 76904, 644.0, 450.93, 927.56, 97.23, 0.06558, 644.0, 927))
+('doomrnn', (920, 76988, 645.12, 417.18, 922.87, 124.83, 0.06553, 645.12, 922))
+('doomrnn', (921, 77074, 673.18, 431.06, 931.31, 126.46, 0.06549, 673.18, 931))
+('doomrnn', (922, 77159, 651.7, 402.62, 933.93, 118.19, 0.06544, 651.7, 933))
+('doomrnn', (923, 77250, 694.49, 442.12, 1014.93, 111.53, 0.06541, 694.49, 1014))
+('doomrnn', (924, 77335, 668.4, 483.43, 966.31, 99.25, 0.06538, 668.4, 966))
+('doomrnn', (925, 77424, 650.35, 414.12, 1023.18, 128.64, 0.06533, 650.35, 1023))
+('Eval', 925, 77507, 'improvement', -26.9287109375, 'curr', 677.708984375, 'prev', 704.6376953125, 'best', 704.6376953125)
+('doomrnn', (926, 77590, 672.81, 444.06, 892.06, 110.06, 0.0653, 672.81, 892))
+('doomrnn', (927, 77678, 689.18, 418.31, 976.12, 127.69, 0.06526, 689.18, 976))
+('doomrnn', (928, 77763, 684.72, 486.18, 903.68, 111.8, 0.06521, 684.72, 903))
+('doomrnn', (929, 77847, 655.7, 406.62, 932.25, 111.85, 0.06516, 655.7, 932))
+('doomrnn', (930, 77935, 698.79, 442.06, 960.5, 115.29, 0.06512, 698.79, 960))
+('doomrnn', (931, 78019, 656.13, 473.87, 920.31, 99.15, 0.06507, 656.13, 920))
+('doomrnn', (932, 78101, 657.15, 456.56, 874.5, 105.59, 0.06502, 657.15, 874))
+('doomrnn', (933, 78182, 654.88, 461.5, 871.25, 95.71, 0.06496, 654.88, 871))
+('doomrnn', (934, 78271, 659.62, 442.0, 981.87, 126.49, 0.0649, 659.62, 981))
+Ctrl-C caught... cleaning up processes
+['mpirun', '-np', '65', '/home/hadavid/anaconda3/bin/python', 'train.py']
