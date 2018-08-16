@@ -124,6 +124,15 @@ class ConvVAE(object):
 
         eps = 1e-6 # avoid taking log of zero
         
+        # reconstruction loss (logistic), commented out.
+        '''
+        self.r_loss = - tf.reduce_mean(
+          self.x * tf.log(self.y + eps) + (1.0 - self.x) * tf.log(1.0 - self.y + eps),
+          reduction_indices = [1,2,3]
+        )
+        self.r_loss = tf.reduce_mean(self.r_loss)*64.0*64.0
+        '''
+        
         # reconstruction loss
         self.r_loss = tf.reduce_sum(
           tf.square(self.x - self.y),
