@@ -8,11 +8,12 @@ import os
 import argparse
 import datetime
 import cv2
-import gym
-import Box2D
-import ray
+import gym  # @UnresolvedImport
+import Box2D  # @UnresolvedImport
+import ray  # @UnresolvedImport
+from model import make_model
 
-#@ray.remote
+@ray.remote
 def worker(worker_index, max_nrof_trials=200, max_nrof_frames=1000, render_mode=False, dir_name='record'):
     print('%s: starting worker %d' % (gettime(), worker_index))
     model = make_model(load_model=False)
@@ -30,6 +31,7 @@ def worker(worker_index, max_nrof_trials=200, max_nrof_frames=1000, render_mode=
         model.env.seed(random_generated_int)
     
         # random policy
+        # This is causing a memory leak!!! Adds new assign operations everytime it's ran.
         model.init_random_model_params(stdev=np.random.rand()*0.01)
     
         model.reset()
@@ -41,15 +43,14 @@ def worker(worker_index, max_nrof_trials=200, max_nrof_frames=1000, render_mode=
           else:
             model.env.render("rgb_array")
             
-            obs = cv2.resize(obs, (64, 64), interpolation = cv2.INTER_AREA)
-    
+          obs = cv2.resize(obs, (64, 64), interpolation = cv2.INTER_AREA)  # @UndefinedVariable
           recording_obs.append(obs)
     
           z, mu, logvar = model.encode_obs(obs)
           action = model.get_action(z)
     
           recording_action.append(action)
-          obs, reward, done, info = model.env.step(action)
+          obs, _, done, _ = model.env.step(action)
     
           if done:
             break
@@ -65,16 +66,17 @@ def worker(worker_index, max_nrof_trials=200, max_nrof_frames=1000, render_mode=
         model.make_env(render_mode=render_mode)
         continue
     model.env.close()
+    model.close_sess()
     print('%s: worker finished %d' % (gettime(), worker_index))
     
 def gettime():
     return datetime.datetime.strftime(datetime.datetime.now(), '%Y%m%d-%H%M%S')
   
 if __name__ == "__main__":
-    parser = argparse.ArgumentParser(description="Train an RL agent on Pong.")
+    parser = argparse.ArgumentParser(description="Generate car racing data from a random policy.")
     parser.add_argument("--nrof_workers", default=4, type=int,
                         help="The number of workers.")
-    parser.add_argument("--max_nrof_frames", default=1000, type=str,
+    parser.add_argument("--max_nrof_frames", default=1000, type=int,
                         help="The maximum number of steps to run the environment for.")
     parser.add_argument("--max_nrof_trials", default=200, type=int,
                         help="The maximum number of trials to run.")
@@ -83,9 +85,7 @@ if __name__ == "__main__":
     for p in [np, gym, Box2D, ray]:
         print('%-12s\t%-10s\t%s' % (p.__name__, p.__version__, p.__file__))
     
-    from model import make_model
-    
-    DIR_NAME = 'record'
+    DIR_NAME = os.path.join('record', gettime())
     if not os.path.exists(DIR_NAME):
         os.makedirs(DIR_NAME)
     
@@ -93,8 +93,8 @@ if __name__ == "__main__":
       ray.init()
       workers = []
       for i in range(args.nrof_workers):
-          workers.append(worker.remote(i, render_mode=False, dir_name=DIR_NAME))
+          workers.append(worker.remote(i, max_nrof_frames=args.max_nrof_frames, render_mode=False, dir_name=DIR_NAME))
       ray.get(workers)
     else:
-      worker(0, render_mode=False, dir_name=DIR_NAME)
+      worker(0, max_nrof_frames=args.max_nrof_frames, render_mode=False, dir_name=DIR_NAME)
 
