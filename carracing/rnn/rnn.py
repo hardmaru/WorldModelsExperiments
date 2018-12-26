@@ -65,12 +65,12 @@ class MDNRNN():
       if not gpu_mode:
         with tf.device("/cpu:0"):
           print("model using cpu")
-          self.g = tf.get_default_graph()
+          self.g = tf.Graph()
           with self.g.as_default():
             self.build_model(hps)
       else:
         print("model using gpu")
-        self.g = tf.get_default_graph()
+        self.g = tf.Graph()
         with self.g.as_default():
           self.build_model(hps)
     self.init_session()

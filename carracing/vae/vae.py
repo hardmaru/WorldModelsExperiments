@@ -28,7 +28,7 @@ class ConvVAE(object):
         self._build_graph()
     self._init_session()
   def _build_graph(self):
-    self.g = tf.get_default_graph()  #tf.Graph()
+    self.g = tf.Graph()
     with self.g.as_default():
 
       self.x = tf.placeholder(tf.float32, shape=[None, 64, 64, 3])
