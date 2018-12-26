@@ -90,13 +90,13 @@ class ConvVAE(object):
       self.init = tf.global_variables_initializer()
       
       t_vars = tf.trainable_variables()
-      self.pl_dict = {}
+      self.assign_ops = {}
       for var in t_vars:
           if var.name.startswith('conv_vae'):
               pshape = var.get_shape()
               pl = tf.placeholder(tf.float32, pshape, var.name[:-2]+'_placeholder')
               assign_op = var.assign(pl)
-              self.pl_dict[var] = (assign_op, pl)
+              self.assign_ops[var] = (assign_op, pl)
 
 
   def _init_session(self):
@@ -146,7 +146,7 @@ class ConvVAE(object):
           pshape = tuple(var.get_shape().as_list())
           p = np.array(params[idx])
           assert pshape == p.shape, "inconsistent shape"
-          assign_op, pl = self.pl_dict[var]
+          assign_op, pl = self.assign_ops[var]
           self.sess.run(assign_op, feed_dict={pl.name: p/10000.})
           idx += 1
   def load_json(self, jsonfile='vae.json'):
