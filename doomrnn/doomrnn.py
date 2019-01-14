@@ -160,6 +160,16 @@ class ConvVAE(object):
 
       # initialize vars
       self.init = tf.global_variables_initializer()
+      
+      # Create assign opsfor VAE
+      t_vars = tf.trainable_variables()
+      self.assign_ops = {}
+      for var in t_vars:
+          if var.name.startswith('conv_vae'):
+              pshape = var.get_shape()
+              pl = tf.placeholder(tf.float32, pshape, var.name[:-2]+'_placeholder')
+              assign_op = var.assign(pl)
+              self.assign_ops[var] = (assign_op, pl)
 
   def _init_session(self):
     """Launch TensorFlow session and initialize variables"""
@@ -183,12 +193,13 @@ class ConvVAE(object):
     with self.g.as_default():
       t_vars = tf.trainable_variables()
       for var in t_vars:
-        param_name = var.name
-        p = self.sess.run(var)
-        model_names.append(param_name)
-        params = np.round(p*10000).astype(np.int).tolist()
-        model_params.append(params)
-        model_shapes.append(p.shape)
+        if var.name.startswith('conv_vae'):
+          param_name = var.name
+          p = self.sess.run(var)
+          model_names.append(param_name)
+          params = np.round(p*10000).astype(np.int).tolist()
+          model_params.append(params)
+          model_shapes.append(p.shape)
     return model_params, model_shapes, model_names
   def get_random_model_params(self, stdev=0.5):
     # get random params.
@@ -203,12 +214,13 @@ class ConvVAE(object):
       t_vars = tf.trainable_variables()
       idx = 0
       for var in t_vars:
-        pshape = self.sess.run(var).shape
-        p = np.array(params[idx])
-        assert pshape == p.shape, "inconsistent shape"
-        assign_op = var.assign(p.astype(np.float)/10000.)
-        self.sess.run(assign_op)
-        idx += 1
+        if var.name.startswith('conv_vae'):
+          pshape = tuple(var.get_shape().as_list())
+          p = np.array(params[idx])
+          assert pshape == p.shape, "inconsistent shape"
+          assign_op, pl = self.assign_ops[var]
+          self.sess.run(assign_op, feed_dict={pl.name: p/10000.})
+          idx += 1
   def load_json(self, jsonfile='vae.json'):
     with open(jsonfile, 'r') as f:
       params = json.load(f)
@@ -405,6 +417,16 @@ class Model():
 
     # initialize vars
     self.init = tf.global_variables_initializer()
+    
+    t_vars = tf.trainable_variables()
+    self.assign_ops = {}
+    for var in t_vars:
+        if var.name.startswith('mdn_rnn'):
+            pshape = var.get_shape()
+            pl = tf.placeholder(tf.float32, pshape, var.name[:-2]+'_placeholder')
+            assign_op = var.assign(pl)
+            self.assign_ops[var] = (assign_op, pl)
+    
   def init_session(self):
     """Launch TensorFlow session and initialize variables"""
     self.sess = tf.Session(graph=self.g)
@@ -435,24 +457,26 @@ class Model():
     with self.g.as_default():
       t_vars = tf.trainable_variables()
       for var in t_vars:
-        param_name = var.name
-        p = self.sess.run(var)
-        model_names.append(param_name)
-        params = np.round(p*10000).astype(np.int).tolist()
-        model_params.append(params)
-        model_shapes.append(p.shape)
+        if var.name.startswith('mdn_rnn'):
+          param_name = var.name
+          p = self.sess.run(var)
+          model_names.append(param_name)
+          params = np.round(p*10000).astype(np.int).tolist()
+          model_params.append(params)
+          model_shapes.append(p.shape)
     return model_params, model_shapes, model_names
   def set_model_params(self, params):
     with self.g.as_default():
       t_vars = tf.trainable_variables()
       idx = 0
       for var in t_vars:
-        pshape = self.sess.run(var).shape
-        p = np.array(params[idx])
-        assert pshape == p.shape, "inconsistent shape"
-        assign_op = var.assign(p.astype(np.float)/10000.)
-        self.sess.run(assign_op)
-        idx += 1
+        if var.name.startswith('mdn_rnn'):
+          pshape = tuple(var.get_shape().as_list())
+          p = np.array(params[idx])
+          assert pshape == p.shape, "inconsistent shape"
+          assign_op, pl = self.assign_ops[var]
+          self.sess.run(assign_op, feed_dict={pl.name: p/10000.})
+          idx += 1
   def get_random_model_params(self, stdev=0.5):
     # get random params.
     _, mshape, _ = self.get_model_params()
