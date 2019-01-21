@@ -88,6 +88,16 @@ class ConvVAE(object):
 
       # initialize vars
       self.init = tf.global_variables_initializer()
+      
+      t_vars = tf.trainable_variables()
+      self.assign_ops = {}
+      for var in t_vars:
+        #if var.name.startswith('conv_vae'):
+        pshape = var.get_shape()
+        pl = tf.placeholder(tf.float32, pshape, var.name[:-2]+'_placeholder')
+        assign_op = var.assign(pl)
+        self.assign_ops[var] = (assign_op, pl)
+
 
   def _init_session(self):
     """Launch TensorFlow session and initialize variables"""
@@ -111,6 +121,7 @@ class ConvVAE(object):
     with self.g.as_default():
       t_vars = tf.trainable_variables()
       for var in t_vars:
+        #if var.name.startswith('conv_vae'):
         param_name = var.name
         p = self.sess.run(var)
         model_names.append(param_name)
@@ -131,11 +142,12 @@ class ConvVAE(object):
       t_vars = tf.trainable_variables()
       idx = 0
       for var in t_vars:
-        pshape = self.sess.run(var).shape
+        #if var.name.startswith('conv_vae'):
+        pshape = tuple(var.get_shape().as_list())
         p = np.array(params[idx])
         assert pshape == p.shape, "inconsistent shape"
-        assign_op = var.assign(p.astype(np.float)/10000.)
-        self.sess.run(assign_op)
+        assign_op, pl = self.assign_ops[var]
+        self.sess.run(assign_op, feed_dict={pl.name: p/10000.})
         idx += 1
   def load_json(self, jsonfile='vae.json'):
     with open(jsonfile, 'r') as f:
