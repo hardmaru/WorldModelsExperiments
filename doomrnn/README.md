@@ -75,7 +75,7 @@ Next, we pre-process collected data using pre-trained VAE by running:
 
 A new dataset will be created in `series`. After this is recorded, train the MDN-RNN by running:
 
-`train rnn using python rnn_train.py`
+`python rnn_train.py`
 
 This will produce a model in `tf_rnn/rnn.json` and also `initial_z.json`.
 
