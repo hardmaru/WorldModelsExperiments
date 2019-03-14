@@ -14,14 +14,16 @@ Please note the library versions in the blog post. In particular, the experiment
 
 If you find this project useful in an academic setting, please cite:
 
-```
-@article{Ha2018WorldModels,
-  author = {Ha, D. and Schmidhuber, J.},
-  title  = {World Models},
-  eprint = {arXiv:1803.10122},
-  doi    = {10.5281/zenodo.1207631},
-  url    = {https://worldmodels.github.io},
-  year   = {2018}
+```latex
+@incollection{ha2018worldmodels,
+  title = {Recurrent World Models Facilitate Policy Evolution},
+  author = {Ha, David and Schmidhuber, J{\"u}rgen},
+  booktitle = {Advances in Neural Information Processing Systems 31},
+  pages = {2451--2463},
+  year = {2018},
+  publisher = {Curran Associates, Inc.},
+  url = {https://papers.nips.cc/paper/7512-recurrent-world-models-facilitate-policy-evolution},
+  note = "\url{https://worldmodels.github.io}",
 }
 ```
 
